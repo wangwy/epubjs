@@ -1,0 +1,187 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.AuthorName {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1.29032em;
+    font-style: italic;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    mso-style-name: "Author Name";
+    text-align: center
+    }
+.BookTitle {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1.54839em;
+    margin-bottom: 3pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5in;
+    mso-style-link: "Book Title Char Char";
+    mso-style-name: "Book Title1";
+    text-align: center
+    }
+.ChapterHeading-Digital {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1em;
+    margin-bottom: 48pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 48pt;
+    mso-style-name: "Chapter Heading - Digital";
+    text-align: center
+    }
+.MsoNormal {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.77419em;
+    line-height: 150%;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 0.3in
+    }
+.MsoNormal1 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.77419em;
+    line-height: 150%;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.MsoNormal2 {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.77419em;
+    line-height: 150%;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 0
+    }
+.MsoPlainText {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.64516em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    mso-style-link: "Plain Text Char";
+    text-align: center
+    }
+.MsoTitle {
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 0.77419em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    mso-style-link: "Title Char";
+    text-align: center
+    }
+.Section {
+    display: block;
+    page: Section1
+    }
+.Section1 {
+    display: block;
+    page: Section2
+    }
+.Section2 {
+    display: block;
+    page: Section3
+    }
+.Section3 {
+    display: block;
+    page: Section4
+    }
+.Section4 {
+    display: block;
+    page: Section5
+    }
+.Section5 {
+    display: block;
+    page: Section6
+    }
+.Section6 {
+    display: block;
+    page: Section7
+    }
+.Section7 {
+    display: block;
+    page: Section8
+    }
+.Section8 {
+    display: block;
+    page: Section9
+    }
+.calibre {
+    display: block;
+    font-size: 1.29167em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    page-break-before: always
+    }
+.calibre1 {
+    color: inherit;
+    cursor: inherit;
+    text-decoration: inherit
+    }
+.calibre10 {
+    text-decoration: underline
+    }
+.calibre11 {
+    color: maroon
+    }
+.calibre12 {
+    font-size: 1.66667em
+    }
+.calibre13 {
+    height: 816;
+    width: 552
+    }
+.calibre14 {
+    font-size: 0.83333em
+    }
+.calibre2 {
+    font-style: italic
+    }
+.calibre3 {
+    display: block;
+    page-break-before: always
+    }
+.calibre4 {
+    font-weight: bolder
+    }
+.calibre5 {
+    color: red
+    }
+.calibre6 {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline
+    }
+.calibre7 {
+    text-decoration: none
+    }
+.calibre8 {
+    font-size: 1.29167em
+    }
+.calibre9 {
+    color: #7030A0
+    }

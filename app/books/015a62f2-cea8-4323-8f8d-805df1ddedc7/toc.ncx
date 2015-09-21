@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta content="coay_7618" name="dtb:uid"/>
+        <meta content="2" name="dtb:depth"/>
+        <meta content="COAY.COM [http://www.coay.com]" name="dtb:generator"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>60个瞬间</text>
+    </docTitle>
+    <docAuthor>
+        <text>三联书店</text>
+    </docAuthor>
+    <navMap>
+        <navPoint class="chapter" id="article_344986" playOrder="1">
+            <navLabel>
+                <text>内容简介</text>
+            </navLabel>
+            <content src="article_344986.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_344987" playOrder="2">
+            <navLabel>
+                <text>目录</text>
+            </navLabel>
+            <content src="article_344987.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_344988" playOrder="3">
+            <navLabel>
+                <text>一个代表的产生（1）</text>
+            </navLabel>
+            <content src="article_344988.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_344989" playOrder="4">
+            <navLabel>
+                <text>一个代表的产生（2）</text>
+            </navLabel>
+            <content src="article_344989.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_344990" playOrder="5">
+            <navLabel>
+                <text>一个代表的产生（3）</text>
+            </navLabel>
+            <content src="article_344990.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_344991" playOrder="6">
+            <navLabel>
+                <text>一个代表的产生（4）</text>
+            </navLabel>
+            <content src="article_344991.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_344992" playOrder="7">
+            <navLabel>
+                <text>毛泽东两次接见李宗仁（1）</text>
+            </navLabel>
+            <content src="article_344992.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_344993" playOrder="8">
+            <navLabel>
+                <text>毛泽东两次接见李宗仁（2）</text>
+            </navLabel>
+            <content src="article_344993.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_344994" playOrder="9">
+            <navLabel>
+                <text>毛泽东两次接见李宗仁（3）</text>
+            </navLabel>
+            <content src="article_344994.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_344995" playOrder="10">
+            <navLabel>
+                <text>毛泽东两次接见李宗仁（4）</text>
+            </navLabel>
+            <content src="article_344995.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_344996" playOrder="11">
+            <navLabel>
+                <text>毛泽东两次接见李宗仁（5）</text>
+            </navLabel>
+            <content src="article_344996.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_344997" playOrder="12">
+            <navLabel>
+                <text>毛泽东两次接见李宗仁（6）</text>
+            </navLabel>
+            <content src="article_344997.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_344998" playOrder="13">
+            <navLabel>
+                <text>林彪之死（1）</text>
+            </navLabel>
+            <content src="article_344998.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_344999" playOrder="14">
+            <navLabel>
+                <text>林彪之死（2）</text>
+            </navLabel>
+            <content src="article_344999.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345000" playOrder="15">
+            <navLabel>
+                <text>林彪之死（3）</text>
+            </navLabel>
+            <content src="article_345000.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345001" playOrder="16">
+            <navLabel>
+                <text>林彪之死（4）</text>
+            </navLabel>
+            <content src="article_345001.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345002" playOrder="17">
+            <navLabel>
+                <text>林彪之死（5）</text>
+            </navLabel>
+            <content src="article_345002.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345003" playOrder="18">
+            <navLabel>
+                <text>林彪之死（6）</text>
+            </navLabel>
+            <content src="article_345003.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345004" playOrder="19">
+            <navLabel>
+                <text>“文革”记愧（1）</text>
+            </navLabel>
+            <content src="article_345004.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345005" playOrder="20">
+            <navLabel>
+                <text>文革”记愧（2）</text>
+            </navLabel>
+            <content src="article_345005.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345006" playOrder="21">
+            <navLabel>
+                <text>文革”记愧（3）</text>
+            </navLabel>
+            <content src="article_345006.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345007" playOrder="22">
+            <navLabel>
+                <text>文革”记愧（4）</text>
+            </navLabel>
+            <content src="article_345007.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345008" playOrder="23">
+            <navLabel>
+                <text>十八颗鲜红的手指印（1）</text>
+            </navLabel>
+            <content src="article_345008.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345009" playOrder="24">
+            <navLabel>
+                <text>十八颗鲜红的手指印（2）</text>
+            </navLabel>
+            <content src="article_345009.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345010" playOrder="25">
+            <navLabel>
+                <text>章士钊上书（1）</text>
+            </navLabel>
+            <content src="article_345010.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345011" playOrder="26">
+            <navLabel>
+                <text>章士钊上书（2）</text>
+            </navLabel>
+            <content src="article_345011.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345012" playOrder="27">
+            <navLabel>
+                <text>章士钊上书（3）</text>
+            </navLabel>
+            <content src="article_345012.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345013" playOrder="28">
+            <navLabel>
+                <text>章士钊上书（4）</text>
+            </navLabel>
+            <content src="article_345013.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345014" playOrder="29">
+            <navLabel>
+                <text>章士钊上书（5）</text>
+            </navLabel>
+            <content src="article_345014.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345015" playOrder="30">
+            <navLabel>
+                <text>戴大口罩的姑娘（1）</text>
+            </navLabel>
+            <content src="article_345015.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345016" playOrder="31">
+            <navLabel>
+                <text>戴大口罩的姑娘（2）</text>
+            </navLabel>
+            <content src="article_345016.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345017" playOrder="32">
+            <navLabel>
+                <text>戴大口罩的姑娘（3）</text>
+            </navLabel>
+            <content src="article_345017.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345018" playOrder="33">
+            <navLabel>
+                <text>戴大口罩的姑娘（4）</text>
+            </navLabel>
+            <content src="article_345018.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345019" playOrder="34">
+            <navLabel>
+                <text>戴大口罩的姑娘（5）</text>
+            </navLabel>
+            <content src="article_345019.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345020" playOrder="35">
+            <navLabel>
+                <text>戴大口罩的姑娘（6）</text>
+            </navLabel>
+            <content src="article_345020.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345021" playOrder="36">
+            <navLabel>
+                <text>戴大口罩的姑娘（7）</text>
+            </navLabel>
+            <content src="article_345021.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345022" playOrder="37">
+            <navLabel>
+                <text>黑龙江1969（1）</text>
+            </navLabel>
+            <content src="article_345022.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345023" playOrder="38">
+            <navLabel>
+                <text>黑龙江1969（2）</text>
+            </navLabel>
+            <content src="article_345023.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345024" playOrder="39">
+            <navLabel>
+                <text>黑龙江1969（3）</text>
+            </navLabel>
+            <content src="article_345024.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345025" playOrder="40">
+            <navLabel>
+                <text>黑龙江1969（4）</text>
+            </navLabel>
+            <content src="article_345025.html"/>
+        </navPoint>
+        <navPoint class="chapter" id="article_345026" playOrder="41">
+            <navLabel>
+                <text>黑龙江1969（5）</text>
+            </navLabel>
+            <content src="article_345026.html"/>
+        </navPoint>
+    </navMap>
+</ncx>

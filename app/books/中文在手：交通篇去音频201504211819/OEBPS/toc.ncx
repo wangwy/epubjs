@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:6f27df91-0343-4e3b-b731-b869aac9c94b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>中文在手：交通篇</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>版权信息</text>
+      </navLabel>
+      <content src="Text/Copyright.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>前言</text>
+      </navLabel>
+      <content src="Text/Preface.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="Text/Preface1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>主要人物介绍 Introduction to the Main Characters</text>
+      </navLabel>
+      <content src="Text/Preface2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>导览 Guidance</text>
+      </navLabel>
+      <content src="Text/Preface3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>1 迎接 Greetings</text>
+      </navLabel>
+      <content src="Text/Chapter1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>2 找地方 Finding the Way</text>
+      </navLabel>
+      <content src="Text/Chapter2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>3 选择交通工具 Choosing a Means of Transportation</text>
+      </navLabel>
+      <content src="Text/Chapter3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>4 选择路线 Choosing Routes</text>
+      </navLabel>
+      <content src="Text/Chapter4.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>5 坐公共汽车 Taking a Bus</text>
+      </navLabel>
+      <content src="Text/Chapter5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>6 坐地铁 Taking the Subway</text>
+      </navLabel>
+      <content src="Text/Chapter6.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>7 坐火车 Taking a Train</text>
+      </navLabel>
+      <content src="Text/Chapter7.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>8 租车、搭车和拼车 Renting a Car, Getting a Lift and Sharing a Car</text>
+      </navLabel>
+      <content src="Text/Chapter8.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>9 自行车 Bicycles</text>
+      </navLabel>
+      <content src="Text/Chapter9.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>10 问路 Asking the Way</text>
+      </navLabel>
+      <content src="Text/Chapter10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>11 约车和包车 Booking a Taxi and Hiring a Minibus</text>
+      </navLabel>
+      <content src="Text/Chapter11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>12 交通事故 Traffic Accidents</text>
+      </navLabel>
+      <content src="Text/Chapter12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>13 突发事件 Emergencies</text>
+      </navLabel>
+      <content src="Text/Chapter13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>14 交通疏导 Getting Through Traffic Congestion</text>
+      </navLabel>
+      <content src="Text/Chapter14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>15 交通礼节 Traffic Etiquette</text>
+      </navLabel>
+      <content src="Text/Chapter15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>16 天气和交通 Weather and Traffic</text>
+      </navLabel>
+      <content src="Text/Chapter16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>17 买票和订票 Purchasing and Booking Tickets</text>
+      </navLabel>
+      <content src="Text/Chapter17.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>18 退票和改期 Returning Tickets or Changing Dates</text>
+      </navLabel>
+      <content src="Text/Chapter18.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>19 托运行李 Checking Baggage</text>
+      </navLabel>
+      <content src="Text/Chapter19.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>20 送机和登机 Seeing Somebody Off and Boarding a Plane</text>
+      </navLabel>
+      <content src="Text/Chapter20.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>附录</text>
+      </navLabel>
+      <content src="Text/Appendix1.xhtml"/>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>北京地铁线路图 Beijing Subway Map</text>
+        </navLabel>
+        <content src="Text/Appendix1.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

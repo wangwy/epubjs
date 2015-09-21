@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>EPUB.js 双页展示例子</title>
+    <script src="../../bower_components/rsvp/rsvp.js"></script>
+    <script src="../js/epub.js"></script>
+    <script src="../js/book.js"></script>
+    <script src="../js/core.js"></script>
+    <script src="../js/hooks.js"></script>
+    <script src="../js/navigation.js"></script>
+    <script src="../js/parser.js"></script>
+    <script src="../js/section.js"></script>
+    <script src="../js/spine.js"></script>
+    <script src="../js/layout.js"></script>
+    <script src="../js/map.js"></script>
+    <script src="../js/queue.js"></script>
+    <script src="../js/rendition.js"></script>
+    <script src="../js/continuous.js"></script>
+    <script src="../js/paginate.js"></script>
+    <script src="../js/replacements.js"></script>
+    <script src="../js/section.js"></script>
+    <script src="../js/views.js"></script>
+    <script src="../js/view.js"></script>
+    <style>
+        body{
+            margin: 0;
+            background: #000000;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            color: #333;
+
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-justify-content: center;
+        }
+
+        #viewer {
+            width: 1200px;
+            height: 800px;
+            background: #ffffff;
+            box-shadow: 0 0 4px #ccc;
+            border-radius: 5px;
+
+            padding: 20px 40px;
+            position: relative;
+            margin: 40px auto;
+        }
+
+        #viewer iframe {
+            background: #ffffff;
+        }
+
+        #prev {
+            left: 40px;
+        }
+
+        #next {
+            right: 40px;
+        }
+
+        .arrow {
+            position: fixed;
+            top: 50%;
+            margin-top: -32px;
+            font-size: 64px;
+            color: #e2e2e2;
+            font-family: arial, sans-serif;
+            font-weight: bold;
+            cursor: pointer;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            user-select: none;
+        }
+
+        .arrow:hover {
+            color: #777;
+        }
+
+        .arrow:active {
+            color: #000;
+        }
+
+        @media (min-width: 1000px){
+            #viewer:after{
+                position: absolute;
+                width: 1px;
+                border-right: 2px #000 solid;
+                height: 90%;
+                z-index: 1;
+                left: 50%;
+                margin-left: -1px;
+                top: 5%;
+                opacity: .15;
+                box-shadow: -2px 0 15px rgba(0,0,0,1);
+                content: "";
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="viewer"></div>
+    <div id="prev" class="arrow">‹</div>
+    <div id="next" class="arrow">›</div>
+</body>
+<script>
+    var book = ePub("../books/教育学2014-10-15/");
+    var rendition = book.renderTo("viewer", {
+        method: "paginate",
+        width: "100%",
+        height: 800
+    });
+
+    var displayed = rendition.display();
+
+    var next = document.getElementById("next");
+    next.addEventListener("click", function(){
+        rendition.next();
+    }, false);
+
+    var prev = document.getElementById("prev");
+    prev.addEventListener("click", function(){
+        rendition.prev();
+    }, false);
+
+</script>
+</html>

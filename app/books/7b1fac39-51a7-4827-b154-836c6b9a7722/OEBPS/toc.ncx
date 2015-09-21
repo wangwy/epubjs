@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:e4e53888-db9d-41ef-a7c2-1de71c0ed7d9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>版权信息</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>序 言</text>
+      </navLabel>
+      <content src="Text/Section0001_0001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>第一章 设计素描概述</text>
+      </navLabel>
+      <content src="Text/Section0001_0003.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>第一节 概 述</text>
+        </navLabel>
+        <content src="Text/Section0001_0003.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>第二节 设计素描的工具和材料</text>
+        </navLabel>
+        <content src="Text/Section0001_0003.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>本章作业</text>
+        </navLabel>
+        <content src="Text/Section0001_0003.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>第二章 透视基础知识</text>
+      </navLabel>
+      <content src="Text/Section0001_0004.xhtml"/>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>第一节 透视原理</text>
+        </navLabel>
+        <content src="Text/Section0001_0004.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>第二节 透视的基本类型</text>
+        </navLabel>
+        <content src="Text/Section0001_0004.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>本章作业</text>
+        </navLabel>
+        <content src="Text/Section0001_0004.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>第三章 设计素描基础知识</text>
+      </navLabel>
+      <content src="Text/Section0001_0005.xhtml"/>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>第一节 素描构图</text>
+        </navLabel>
+        <content src="Text/Section0001_0005.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>第二节 素描造型的表现要素</text>
+        </navLabel>
+        <content src="Text/Section0001_0005.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>第三节 设计素描的表现手法</text>
+        </navLabel>
+        <content src="Text/Section0001_0005.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>本章作业</text>
+        </navLabel>
+        <content src="Text/Section0001_0005.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>第四章 设计素描的表现形式</text>
+      </navLabel>
+      <content src="Text/Section0001_0006.xhtml"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>第一节 结构设计素描的表现</text>
+        </navLabel>
+        <content src="Text/Section0001_0006.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>第二节 明暗设计素描的表现</text>
+        </navLabel>
+        <content src="Text/Section0001_0006.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>第三节 设计素描的肌理与质感表现</text>
+        </navLabel>
+        <content src="Text/Section0001_0006.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>第四节 超写实设计素描的表现</text>
+        </navLabel>
+        <content src="Text/Section0001_0006.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>第五章 设计素描的创意思维与表达</text>
+      </navLabel>
+      <content src="Text/Section0001_0007.xhtml"/>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>第一节 解构与重构</text>
+        </navLabel>
+        <content src="Text/Section0001_0007.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>第二节 抽象与意象</text>
+        </navLabel>
+        <content src="Text/Section0001_0007.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>第三节 反常规的创意表现</text>
+        </navLabel>
+        <content src="Text/Section0001_0007.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>第六章 设计素描在设计领域中的应用</text>
+      </navLabel>
+      <content src="Text/Section0001_0008.xhtml"/>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>第一节 设计素描在视觉传达设计中的应用</text>
+        </navLabel>
+        <content src="Text/Section0001_0008.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>第二节 设计素描在环境艺术设计中的应用</text>
+        </navLabel>
+        <content src="Text/Section0001_0008.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>第三节 设计素描在产品造型设计中的应用</text>
+        </navLabel>
+        <content src="Text/Section0001_0008.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>第四节 设计素描在动漫设计中的应用</text>
+        </navLabel>
+        <content src="Text/Section0001_0008.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>第五节 设计素描在服装设计中的应用</text>
+        </navLabel>
+        <content src="Text/Section0001_0008.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>第七章 优秀设计素描作品赏析</text>
+      </navLabel>
+      <content src="Text/Section0001_0009.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>参考文献</text>
+      </navLabel>
+      <content src="Text/Section0001_0009.xhtml#sigil_toc_id_23"/>
+    </navPoint>
+  </navMap>
+</ncx>

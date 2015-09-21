@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="43dd5517-0edc-4798-82f8-433d2758b9f7" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.47)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>王小波全集</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="coverpage" playOrder="1">
+      <navLabel>
+        <text>封面</text>
+      </navLabel>
+      <content src="OPS/coverpage.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter2" playOrder="2">
+      <navLabel>
+        <text>黄金时代</text>
+      </navLabel>
+      <content src="OPS/chapter2.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter14" playOrder="3">
+      <navLabel>
+        <text>白银时代</text>
+      </navLabel>
+      <content src="OPS/chapter14.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter30" playOrder="4">
+      <navLabel>
+        <text>沉默的大多数</text>
+      </navLabel>
+      <content src="OPS/chapter30_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter134" playOrder="5">
+      <navLabel>
+        <text>革命时期的爱情</text>
+      </navLabel>
+      <content src="OPS/chapter134_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter191" playOrder="6">
+      <navLabel>
+        <text>红拂夜奔</text>
+      </navLabel>
+      <content src="OPS/chapter191_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter259" playOrder="7">
+      <navLabel>
+        <text>三十而立</text>
+      </navLabel>
+      <content src="OPS/chapter259.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter266" playOrder="8">
+      <navLabel>
+        <text>生平简介和作品评论</text>
+      </navLabel>
+      <content src="OPS/chapter266_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter332" playOrder="9">
+      <navLabel>
+        <text>似水流年</text>
+      </navLabel>
+      <content src="OPS/chapter332.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter355" playOrder="10">
+      <navLabel>
+        <text>似水柔情</text>
+      </navLabel>
+      <content src="OPS/chapter355.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter413" playOrder="11">
+      <navLabel>
+        <text>他们的世界</text>
+      </navLabel>
+      <content src="OPS/chapter413_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter445" playOrder="12">
+      <navLabel>
+        <text>唐人故事</text>
+      </navLabel>
+      <content src="OPS/chapter445_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter464" playOrder="13">
+      <navLabel>
+        <text>万寿寺</text>
+      </navLabel>
+      <content src="OPS/chapter464_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter563" playOrder="14">
+      <navLabel>
+        <text>我的精神家园</text>
+      </navLabel>
+      <content src="OPS/chapter563_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter634" playOrder="15">
+      <navLabel>
+        <text>我的阴阳两届</text>
+      </navLabel>
+      <content src="OPS/chapter634.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter651" playOrder="16">
+      <navLabel>
+        <text>未来世界</text>
+      </navLabel>
+      <content src="OPS/chapter651.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter684" playOrder="17">
+      <navLabel>
+        <text>王小波与李银河书信集</text>
+      </navLabel>
+      <content src="OPS/chapter684.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter711" playOrder="18">
+      <navLabel>
+        <text>寻找无双</text>
+      </navLabel>
+      <content src="OPS/chapter711_split_000.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

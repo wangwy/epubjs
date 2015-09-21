@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>三联书店</string>
+	<key>book-info</key>
+	<dict>
+		<key>package-file-hash</key>
+		<string>22BB44647B9FE0E57D2D5F94B8939471</string>
+		<key>publisher-unique-id</key>
+		<string>7618</string>
+		<key>unique-id</key>
+		<integer>-5936503883416838523</integer>
+	</dict>
+	<key>genre</key>
+	<string>60个瞬间</string>
+	<key>itemName</key>
+	<string>60个瞬间</string>
+	<key>playlistName</key>
+	<string>60个瞬间</string>
+	<key>releaseDate</key>
+	<string></string>
+</dict>
+</plist>

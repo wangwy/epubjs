@@ -1,0 +1,65 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Fox, Cathryn">Cathryn Fox</dc:creator>
+<meta name="calibre:rating" content="0"/>
+    <meta name="calibre:series_index" content="2.0"/>
+    <dc:language>UND</dc:language>
+    <meta name="calibre:timestamp" content="2010-07-18T09:43:34.844000+00:00"/>
+    <dc:title>All Worked Up</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2010-07-18 00:00:00-07:00</dc:date>
+    <meta name="calibre:series" content="Pleasure Inn"/>
+    <dc:contributor opf:role="bkp">calibre (0.7.9) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="ISBN">9781605048420</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8a83d56e-2af2-4e35-9c0d-adcc9b87730e</dc:identifier>
+  <dc:subject>Romance - Fantasy</dc:subject>
+<dc:description></dc:description>
+</metadata>
+  <manifest>
+    <item href="AllWorkedUpMOBI_split_000.htm" id="html17" media-type="application/xhtml+xml"/>
+    <item href="AllWorkedUpMOBI_split_001.htm" id="html16" media-type="application/xhtml+xml"/>
+    <item href="AllWorkedUpMOBI_split_002.htm" id="html15" media-type="application/xhtml+xml"/>
+    <item href="AllWorkedUpMOBI_split_003.htm" id="html14" media-type="application/xhtml+xml"/>
+    <item href="AllWorkedUpMOBI_split_004.htm" id="html13" media-type="application/xhtml+xml"/>
+    <item href="AllWorkedUpMOBI_split_005.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="AllWorkedUpMOBI_split_006.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="AllWorkedUpMOBI_split_007.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="AllWorkedUpMOBI_split_008.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="AllWorkedUpMOBI_split_009.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="AllWorkedUpMOBI_split_010.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="AllWorkedUpMOBI_split_011.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="AllWorkedUpMOBI_split_012.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="AllWorkedUpMOBI_split_013.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="AllWorkedUpMOBI_split_014.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="AllWorkedUpMOBI_split_015.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="AllWorkedUpMOBI_split_016.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html17"/>
+    <itemref idref="html16"/>
+    <itemref idref="html15"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

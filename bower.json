@@ -1,0 +1,19 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "homepage": "https://github.com/wangwy/app-epub",
+  "authors": [
+    "wangwy <137852814@qq.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "rsvp": "~3.0.21"
+  }
+}

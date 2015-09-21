@@ -1,0 +1,10 @@
+{
+  "name": "epubjs",
+  "version": "0.0.1",
+  "devDependencies": {
+    "colors": "~0.6.2",
+    "connect": "~2.14.4",
+    "optimist": "~0.6.1",
+    "portfinder": "~0.2.1"
+  }
+}

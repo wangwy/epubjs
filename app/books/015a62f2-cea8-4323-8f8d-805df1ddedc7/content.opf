@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+    <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf"
+              xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata"
+              xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:title>60个瞬间</dc:title>
+        <dc:creator>三联书店</dc:creator>
+        <dc:description>60个瞬间</dc:description>
+        <dc:language>zh-cn</dc:language>
+        <dc:date></dc:date>
+        <dc:contributor>COAY.COM [http://www.coay.com]</dc:contributor>
+        <dc:publisher>COAY.COM</dc:publisher>
+        <dc:identifier id="uuid_id" opf:scheme="uuid">7618</dc:identifier>
+        <dc:subject>60个瞬间</dc:subject>
+    </metadata>
+    <manifest>
+        <item href="article_344986.html" id="id344986" media-type="application/xhtml+xml"/>
+        <item href="article_344987.html" id="id344987" media-type="application/xhtml+xml"/>
+        <item href="article_344988.html" id="id344988" media-type="application/xhtml+xml"/>
+        <item href="article_344989.html" id="id344989" media-type="application/xhtml+xml"/>
+        <item href="article_344990.html" id="id344990" media-type="application/xhtml+xml"/>
+        <item href="article_344991.html" id="id344991" media-type="application/xhtml+xml"/>
+        <item href="article_344992.html" id="id344992" media-type="application/xhtml+xml"/>
+        <item href="article_344993.html" id="id344993" media-type="application/xhtml+xml"/>
+        <item href="article_344994.html" id="id344994" media-type="application/xhtml+xml"/>
+        <item href="article_344995.html" id="id344995" media-type="application/xhtml+xml"/>
+        <item href="article_344996.html" id="id344996" media-type="application/xhtml+xml"/>
+        <item href="article_344997.html" id="id344997" media-type="application/xhtml+xml"/>
+        <item href="article_344998.html" id="id344998" media-type="application/xhtml+xml"/>
+        <item href="article_344999.html" id="id344999" media-type="application/xhtml+xml"/>
+        <item href="article_345000.html" id="id345000" media-type="application/xhtml+xml"/>
+        <item href="article_345001.html" id="id345001" media-type="application/xhtml+xml"/>
+        <item href="article_345002.html" id="id345002" media-type="application/xhtml+xml"/>
+        <item href="article_345003.html" id="id345003" media-type="application/xhtml+xml"/>
+        <item href="article_345004.html" id="id345004" media-type="application/xhtml+xml"/>
+        <item href="article_345005.html" id="id345005" media-type="application/xhtml+xml"/>
+        <item href="article_345006.html" id="id345006" media-type="application/xhtml+xml"/>
+        <item href="article_345007.html" id="id345007" media-type="application/xhtml+xml"/>
+        <item href="article_345008.html" id="id345008" media-type="application/xhtml+xml"/>
+        <item href="article_345009.html" id="id345009" media-type="application/xhtml+xml"/>
+        <item href="article_345010.html" id="id345010" media-type="application/xhtml+xml"/>
+        <item href="article_345011.html" id="id345011" media-type="application/xhtml+xml"/>
+        <item href="article_345012.html" id="id345012" media-type="application/xhtml+xml"/>
+        <item href="article_345013.html" id="id345013" media-type="application/xhtml+xml"/>
+        <item href="article_345014.html" id="id345014" media-type="application/xhtml+xml"/>
+        <item href="article_345015.html" id="id345015" media-type="application/xhtml+xml"/>
+        <item href="article_345016.html" id="id345016" media-type="application/xhtml+xml"/>
+        <item href="article_345017.html" id="id345017" media-type="application/xhtml+xml"/>
+        <item href="article_345018.html" id="id345018" media-type="application/xhtml+xml"/>
+        <item href="article_345019.html" id="id345019" media-type="application/xhtml+xml"/>
+        <item href="article_345020.html" id="id345020" media-type="application/xhtml+xml"/>
+        <item href="article_345021.html" id="id345021" media-type="application/xhtml+xml"/>
+        <item href="article_345022.html" id="id345022" media-type="application/xhtml+xml"/>
+        <item href="article_345023.html" id="id345023" media-type="application/xhtml+xml"/>
+        <item href="article_345024.html" id="id345024" media-type="application/xhtml+xml"/>
+        <item href="article_345025.html" id="id345025" media-type="application/xhtml+xml"/>
+        <item href="article_345026.html" id="id345026" media-type="application/xhtml+xml"/>
+
+        <item href="catalog.html" id="catalog" media-type="application/xhtml+xml"/>
+        <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+        <item href="coay.jpg" id="ad" media-type="image/jpeg"/>
+        <item href="stylesheet.css" id="css" media-type="text/css"/>
+        <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+        <item href="page.xhtml" id="page" media-type="application/xhtml+xml"/>
+        <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="id344986"/>
+        <itemref idref="id344987"/>
+        <itemref idref="titlepage"/>
+        <itemref idref="page"/>
+        <itemref idref="catalog"/>
+        <itemref idref="id344988"/>
+        <itemref idref="id344989"/>
+        <itemref idref="id344990"/>
+        <itemref idref="id344991"/>
+        <itemref idref="id344992"/>
+        <itemref idref="id344993"/>
+        <itemref idref="id344994"/>
+        <itemref idref="id344995"/>
+        <itemref idref="id344996"/>
+        <itemref idref="id344997"/>
+        <itemref idref="id344998"/>
+        <itemref idref="id344999"/>
+        <itemref idref="id345000"/>
+        <itemref idref="id345001"/>
+        <itemref idref="id345002"/>
+        <itemref idref="id345003"/>
+        <itemref idref="id345004"/>
+        <itemref idref="id345005"/>
+        <itemref idref="id345006"/>
+        <itemref idref="id345007"/>
+        <itemref idref="id345008"/>
+        <itemref idref="id345009"/>
+        <itemref idref="id345010"/>
+        <itemref idref="id345011"/>
+        <itemref idref="id345012"/>
+        <itemref idref="id345013"/>
+        <itemref idref="id345014"/>
+        <itemref idref="id345015"/>
+        <itemref idref="id345016"/>
+        <itemref idref="id345017"/>
+        <itemref idref="id345018"/>
+        <itemref idref="id345019"/>
+        <itemref idref="id345020"/>
+        <itemref idref="id345021"/>
+        <itemref idref="id345022"/>
+        <itemref idref="id345023"/>
+        <itemref idref="id345024"/>
+        <itemref idref="id345025"/>
+        <itemref idref="id345026"/>
+    </spine>
+    <guide>
+        <reference href="titlepage.xhtml" type="cover" title="封面"/>
+        <reference href="catalog.html" type="toc" title="目录"/>
+    </guide>
+</package>

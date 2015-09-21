@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+    <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf"
+              xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata"
+              xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:title>84号公路</dc:title>
+        <dc:creator>南飞熊</dc:creator>
+        <dc:description>84号公路</dc:description>
+        <dc:language>zh-cn</dc:language>
+        <dc:date></dc:date>
+        <dc:contributor>COAY.COM [http://www.coay.com]</dc:contributor>
+        <dc:publisher>COAY.COM</dc:publisher>
+        <dc:identifier id="uuid_id" opf:scheme="uuid">7611</dc:identifier>
+        <dc:subject>84号公路</dc:subject>
+    </metadata>
+    <manifest>
+        <item href="article_344657.html" id="id344657" media-type="application/xhtml+xml"/>
+        <item href="article_344658.html" id="id344658" media-type="application/xhtml+xml"/>
+        <item href="article_344659.html" id="id344659" media-type="application/xhtml+xml"/>
+        <item href="article_344660.html" id="id344660" media-type="application/xhtml+xml"/>
+        <item href="article_344661.html" id="id344661" media-type="application/xhtml+xml"/>
+        <item href="article_344662.html" id="id344662" media-type="application/xhtml+xml"/>
+        <item href="article_344663.html" id="id344663" media-type="application/xhtml+xml"/>
+        <item href="article_344664.html" id="id344664" media-type="application/xhtml+xml"/>
+        <item href="article_344665.html" id="id344665" media-type="application/xhtml+xml"/>
+        <item href="article_344666.html" id="id344666" media-type="application/xhtml+xml"/>
+        <item href="article_344667.html" id="id344667" media-type="application/xhtml+xml"/>
+        <item href="article_344668.html" id="id344668" media-type="application/xhtml+xml"/>
+        <item href="article_344669.html" id="id344669" media-type="application/xhtml+xml"/>
+        <item href="article_344670.html" id="id344670" media-type="application/xhtml+xml"/>
+        <item href="article_344671.html" id="id344671" media-type="application/xhtml+xml"/>
+        <item href="article_344672.html" id="id344672" media-type="application/xhtml+xml"/>
+        <item href="article_344673.html" id="id344673" media-type="application/xhtml+xml"/>
+        <item href="article_344674.html" id="id344674" media-type="application/xhtml+xml"/>
+        <item href="article_344675.html" id="id344675" media-type="application/xhtml+xml"/>
+        <item href="article_344676.html" id="id344676" media-type="application/xhtml+xml"/>
+        <item href="article_344677.html" id="id344677" media-type="application/xhtml+xml"/>
+        <item href="article_344678.html" id="id344678" media-type="application/xhtml+xml"/>
+        <item href="article_344679.html" id="id344679" media-type="application/xhtml+xml"/>
+        <item href="article_344680.html" id="id344680" media-type="application/xhtml+xml"/>
+        <item href="article_344681.html" id="id344681" media-type="application/xhtml+xml"/>
+        <item href="article_344682.html" id="id344682" media-type="application/xhtml+xml"/>
+        <item href="article_344683.html" id="id344683" media-type="application/xhtml+xml"/>
+        <item href="article_344684.html" id="id344684" media-type="application/xhtml+xml"/>
+        <item href="article_344685.html" id="id344685" media-type="application/xhtml+xml"/>
+        <item href="article_344686.html" id="id344686" media-type="application/xhtml+xml"/>
+
+        <item href="catalog.html" id="catalog" media-type="application/xhtml+xml"/>
+        <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+        <item href="coay.jpg" id="ad" media-type="image/jpeg"/>
+        <item href="stylesheet.css" id="css" media-type="text/css"/>
+        <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+        <item href="page.xhtml" id="page" media-type="application/xhtml+xml"/>
+        <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="titlepage"/>
+        <itemref idref="page"/>
+        <itemref idref="catalog"/>
+        <itemref idref="id344657"/>
+        <itemref idref="id344658"/>
+        <itemref idref="id344659"/>
+        <itemref idref="id344660"/>
+        <itemref idref="id344661"/>
+        <itemref idref="id344662"/>
+        <itemref idref="id344663"/>
+        <itemref idref="id344664"/>
+        <itemref idref="id344665"/>
+        <itemref idref="id344666"/>
+        <itemref idref="id344667"/>
+        <itemref idref="id344668"/>
+        <itemref idref="id344669"/>
+        <itemref idref="id344670"/>
+        <itemref idref="id344671"/>
+        <itemref idref="id344672"/>
+        <itemref idref="id344673"/>
+        <itemref idref="id344674"/>
+        <itemref idref="id344675"/>
+        <itemref idref="id344676"/>
+        <itemref idref="id344677"/>
+        <itemref idref="id344678"/>
+        <itemref idref="id344679"/>
+        <itemref idref="id344680"/>
+        <itemref idref="id344681"/>
+        <itemref idref="id344682"/>
+        <itemref idref="id344683"/>
+        <itemref idref="id344684"/>
+        <itemref idref="id344685"/>
+        <itemref idref="id344686"/>
+    </spine>
+    <guide>
+        <reference href="titlepage.xhtml" type="cover" title="封面"/>
+        <reference href="catalog.html" type="toc" title="目录"/>
+    </guide>
+</package>

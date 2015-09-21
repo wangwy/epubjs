@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<opf:package version="2.0" unique-identifier="BookId" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <opf:metadata>
+    <dc:identifier id="BookId" opf:scheme="uuid">1878</dc:identifier>
+    <dc:title>好父母成就好孩子：百名校长为家长支招</dc:title>
+    <dc:subject>好父母成就好孩子：百名校长为家长支招</dc:subject>
+    <dc:description>好父母成就好孩子：百名校长为家长支招</dc:description>
+    <dc:publisher>COAY.COM</dc:publisher>
+    <dc:creator opf:role="aut" opf:file-as="段兰华, "> 段兰华</dc:creator>
+    <dc:contributor opf:role="aut" opf:file-as="[http://www.coay.com], COAY.COM">COAY.COM [http://www.coay.com]</dc:contributor>
+    <dc:date></dc:date>
+    <dc:language>zh-cn</dc:language>
+    <opf:meta name="generator" content="EPUBLib version 3.0" />
+  </opf:metadata>
+  <opf:manifest>
+    <opf:item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <opf:item id="ad" href="coay.jpg" media-type="image/jpeg" />
+    <opf:item id="catalog" href="catalog.html" media-type="application/xhtml+xml" />
+    <opf:item id="cover" href="cover.jpg" media-type="image/jpeg" />
+    <opf:item id="css" href="stylesheet.css" media-type="text/css" />
+    <opf:item id="id100822" href="article_100822.html" media-type="application/xhtml+xml" />
+    <opf:item id="id100823" href="article_100823.html" media-type="application/xhtml+xml" />
+    <opf:item id="id100824" href="article_100824.html" media-type="application/xhtml+xml" />
+    <opf:item id="id100825" href="article_100825.html" media-type="application/xhtml+xml" />
+    <opf:item id="id100826" href="article_100826.html" media-type="application/xhtml+xml" />
+    <opf:item id="page" href="page.xhtml" media-type="application/xhtml+xml" />
+    <opf:item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml" />
+  </opf:manifest>
+  <opf:spine toc="ncx">
+    <opf:itemref idref="titlepage" />
+    <opf:itemref idref="page" />
+    <opf:itemref idref="catalog" />
+    <opf:itemref idref="id100822" />
+    <opf:itemref idref="id100823" />
+    <opf:itemref idref="id100824" />
+    <opf:itemref idref="id100825" />
+    <opf:itemref idref="id100826" />
+  </opf:spine>
+  <opf:guide>
+    <opf:reference type="cover" href="titlepage.xhtml" title="cover" />
+  </opf:guide>
+</opf:package>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>苍库</dc:publisher>
+    <meta name="calibre:series_index" content="1"/>
+    <dc:rights>本电子书由epubBuilder制作生成，欢迎访问http://www.cnepub.com浏览海量电子书。</dc:rights>
+    <dc:language>UND</dc:language>
+    <dc:creator opf:file-as="王小波" opf:role="aut">王小波</dc:creator>
+    <meta name="calibre:timestamp" content="2010-04-17T05:24:23.403000+00:00"/>
+    <dc:title>王小波全集</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2010-04-17T04:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.6.47) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">43dd5517-0edc-4798-82f8-433d2758b9f7</dc:identifier>
+    <dc:subject>现代·当代</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="OPS/chapter134_split_000.html" id="chapter1342" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter134_split_001.html" id="chapter1341" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter14.html" id="chapter14" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter191_split_000.html" id="chapter1912" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter191_split_001.html" id="chapter1911" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter2.html" id="chapter2" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter259.html" id="chapter259" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter266_split_000.html" id="chapter2664" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter266_split_001.html" id="chapter2663" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter266_split_002.html" id="chapter2662" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter266_split_003.html" id="chapter2661" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter30_split_000.html" id="chapter304" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter30_split_001.html" id="chapter303" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter30_split_002.html" id="chapter302" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter30_split_003.html" id="chapter301" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter332.html" id="chapter332" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter355.html" id="chapter355" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter413_split_000.html" id="chapter4132" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter413_split_001.html" id="chapter4131" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter445_split_000.html" id="chapter4452" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter445_split_001.html" id="chapter4451" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter464_split_000.html" id="chapter4643" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter464_split_001.html" id="chapter4642" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter464_split_002.html" id="chapter4641" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter563_split_000.html" id="chapter5632" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter563_split_001.html" id="chapter5631" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter634.html" id="chapter634" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter651.html" id="chapter651" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter684.html" id="chapter684" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter711_split_000.html" id="chapter7112" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter711_split_001.html" id="chapter7111" media-type="application/xhtml+xml"/>
+    <item href="OPS/coverpage.html" id="coverpage" media-type="application/xhtml+xml"/>
+    <item href="OPS/images/cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="coverpage"/>
+    <itemref idref="chapter2"/>
+    <itemref idref="chapter14"/>
+    <itemref idref="chapter304"/>
+    <itemref idref="chapter303"/>
+    <itemref idref="chapter302"/>
+    <itemref idref="chapter301"/>
+    <itemref idref="chapter1342"/>
+    <itemref idref="chapter1341"/>
+    <itemref idref="chapter1912"/>
+    <itemref idref="chapter1911"/>
+    <itemref idref="chapter259"/>
+    <itemref idref="chapter2664"/>
+    <itemref idref="chapter2663"/>
+    <itemref idref="chapter2662"/>
+    <itemref idref="chapter2661"/>
+    <itemref idref="chapter332"/>
+    <itemref idref="chapter355"/>
+    <itemref idref="chapter4132"/>
+    <itemref idref="chapter4131"/>
+    <itemref idref="chapter4452"/>
+    <itemref idref="chapter4451"/>
+    <itemref idref="chapter4643"/>
+    <itemref idref="chapter4642"/>
+    <itemref idref="chapter4641"/>
+    <itemref idref="chapter5632"/>
+    <itemref idref="chapter5631"/>
+    <itemref idref="chapter634"/>
+    <itemref idref="chapter651"/>
+    <itemref idref="chapter684"/>
+    <itemref idref="chapter7112"/>
+    <itemref idref="chapter7111"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

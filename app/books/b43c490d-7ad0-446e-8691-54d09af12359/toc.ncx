@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="eec63508-33f2-4432-9146-ab97d30f725d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.47)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>初刻拍案惊奇</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="coverpage" playOrder="1">
+      <navLabel>
+        <text>封面</text>
+      </navLabel>
+      <content src="OPS/coverpage.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter42" playOrder="2">
+      <navLabel>
+        <text>content</text>
+      </navLabel>
+      <content src="OPS/chapter42.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter1" playOrder="3">
+      <navLabel>
+        <text>01</text>
+      </navLabel>
+      <content src="OPS/chapter1.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter2" playOrder="4">
+      <navLabel>
+        <text>02</text>
+      </navLabel>
+      <content src="OPS/chapter2.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter3" playOrder="5">
+      <navLabel>
+        <text>03</text>
+      </navLabel>
+      <content src="OPS/chapter3.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter4" playOrder="6">
+      <navLabel>
+        <text>04</text>
+      </navLabel>
+      <content src="OPS/chapter4.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter5" playOrder="7">
+      <navLabel>
+        <text>05</text>
+      </navLabel>
+      <content src="OPS/chapter5.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter6" playOrder="8">
+      <navLabel>
+        <text>06</text>
+      </navLabel>
+      <content src="OPS/chapter6.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter7" playOrder="9">
+      <navLabel>
+        <text>07</text>
+      </navLabel>
+      <content src="OPS/chapter7.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter8" playOrder="10">
+      <navLabel>
+        <text>08</text>
+      </navLabel>
+      <content src="OPS/chapter8.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter9" playOrder="11">
+      <navLabel>
+        <text>09</text>
+      </navLabel>
+      <content src="OPS/chapter9.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter10" playOrder="12">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="OPS/chapter10.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter11" playOrder="13">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="OPS/chapter11.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter12" playOrder="14">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="OPS/chapter12.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter13" playOrder="15">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="OPS/chapter13.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter14" playOrder="16">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="OPS/chapter14.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter15" playOrder="17">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="OPS/chapter15.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter16" playOrder="18">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="OPS/chapter16.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter17" playOrder="19">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="OPS/chapter17.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter18" playOrder="20">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="OPS/chapter18.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter19" playOrder="21">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="OPS/chapter19.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter20" playOrder="22">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="OPS/chapter20.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter21" playOrder="23">
+      <navLabel>
+        <text>21</text>
+      </navLabel>
+      <content src="OPS/chapter21.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter22" playOrder="24">
+      <navLabel>
+        <text>22</text>
+      </navLabel>
+      <content src="OPS/chapter22.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter23" playOrder="25">
+      <navLabel>
+        <text>23</text>
+      </navLabel>
+      <content src="OPS/chapter23.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter24" playOrder="26">
+      <navLabel>
+        <text>24</text>
+      </navLabel>
+      <content src="OPS/chapter24.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter25" playOrder="27">
+      <navLabel>
+        <text>25</text>
+      </navLabel>
+      <content src="OPS/chapter25.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter26" playOrder="28">
+      <navLabel>
+        <text>26</text>
+      </navLabel>
+      <content src="OPS/chapter26.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter27" playOrder="29">
+      <navLabel>
+        <text>27</text>
+      </navLabel>
+      <content src="OPS/chapter27.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter28" playOrder="30">
+      <navLabel>
+        <text>28</text>
+      </navLabel>
+      <content src="OPS/chapter28.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter29" playOrder="31">
+      <navLabel>
+        <text>29</text>
+      </navLabel>
+      <content src="OPS/chapter29.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter30" playOrder="32">
+      <navLabel>
+        <text>30</text>
+      </navLabel>
+      <content src="OPS/chapter30.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter31" playOrder="33">
+      <navLabel>
+        <text>31</text>
+      </navLabel>
+      <content src="OPS/chapter31.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter32" playOrder="34">
+      <navLabel>
+        <text>32</text>
+      </navLabel>
+      <content src="OPS/chapter32.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter33" playOrder="35">
+      <navLabel>
+        <text>33</text>
+      </navLabel>
+      <content src="OPS/chapter33.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter34" playOrder="36">
+      <navLabel>
+        <text>34</text>
+      </navLabel>
+      <content src="OPS/chapter34.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter35" playOrder="37">
+      <navLabel>
+        <text>35</text>
+      </navLabel>
+      <content src="OPS/chapter35.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter36" playOrder="38">
+      <navLabel>
+        <text>36</text>
+      </navLabel>
+      <content src="OPS/chapter36.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter37" playOrder="39">
+      <navLabel>
+        <text>37</text>
+      </navLabel>
+      <content src="OPS/chapter37.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter38" playOrder="40">
+      <navLabel>
+        <text>38</text>
+      </navLabel>
+      <content src="OPS/chapter38.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter39" playOrder="41">
+      <navLabel>
+        <text>39</text>
+      </navLabel>
+      <content src="OPS/chapter39.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="chapter40" playOrder="42">
+      <navLabel>
+        <text>40</text>
+      </navLabel>
+      <content src="OPS/chapter40.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

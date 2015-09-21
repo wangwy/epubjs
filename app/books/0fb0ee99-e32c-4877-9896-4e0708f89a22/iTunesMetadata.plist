@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>王小波</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>7437BDF3BF0080C6E77B2BD6352077EC</string>
+		<key>cover-image-path</key>
+		<string>cover.jpg</string>
+		<key>package-file-hash</key>
+		<string>E5732C3044F7AB4F7B5EB798D358DC85</string>
+		<key>publisher-unique-id</key>
+		<string>43dd5517-0edc-4798-82f8-433d2758b9f7</string>
+		<key>unique-id</key>
+		<integer>-5536806812485968607</integer>
+	</dict>
+	<key>genre</key>
+	<string>现代·当代</string>
+	<key>itemName</key>
+	<string>王小波全集</string>
+	<key>playlistName</key>
+	<string>王小波全集</string>
+	<key>releaseDate</key>
+	<string>2010-04-17T04:00:00+00:00</string>
+	<key>sort-artist</key>
+	<string>王小波</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

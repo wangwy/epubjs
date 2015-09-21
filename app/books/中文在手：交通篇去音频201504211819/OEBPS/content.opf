@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="duokan-book-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="duokan-book-id" opf:scheme="UUID">urn:uuid:6f27df91-0343-4e3b-b731-b869aac9c94b</dc:identifier>
+    <dc:identifier id="duokan-resource-id" opf:scheme="UUID">urn:uuid:4861e3fa-c888-4598-a9b8-33bb4d257eae</dc:identifier>
+    <dc:title>中文在手：交通篇</dc:title>
+    <dc:contributor opf:role="edt">刘元满</dc:contributor>
+    <dc:publisher>人民教育出版社</dc:publisher>
+    <dc:creator opf:role="aut">石克延</dc:creator>
+    <dc:language>zh</dc:language>
+    <meta content="Dobby-3.0.3" name="duokan-studio-version" />
+    <meta content="20130821.1" name="duokan-book-revision" />
+    <meta name="cover" content="539c2dfe-4bb4-47f1-b45b-b45db62eada5" />
+    <meta content="28164" name="duokan-word-count" />
+    <meta content="standard" name="duokan-resource-quality" />
+    <meta content="true" name="duokan-book-linearized" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/InnerCover.xhtml" id="1203c7e4-b56c-4b23-b184-f9e4e50eaeda" media-type="application/xhtml+xml" />
+    <item href="Text/Copyright.xhtml" id="3fe1a361-e8ac-4947-a95c-b3c94c1e8acd" media-type="application/xhtml+xml" />
+    <item href="Text/Preface.xhtml" id="679ef929-df0f-4db5-8d55-708805bcb6cd" media-type="application/xhtml+xml" />
+    <item href="Styles/stylesheet.css" id="800cf892-4339-4d42-b55b-eca6d7a94dc4" media-type="text/css" />
+    <item height="134" href="Images/047.png" id="b3b1e89d-07f4-43f7-a680-44d273fb132d" media-type="image/png" width="768" />
+    <item height="131" href="Images/048.png" id="e5b7e6d0-c40c-41d6-8f9d-8babec33fc6c" media-type="image/png" width="768" />
+    <item height="130" href="Images/053.png" id="aad2d3aa-6851-4897-80d6-fc37381cb3d6" media-type="image/png" width="768" />
+    <item height="143" href="Images/054.png" id="443ad9fb-5da2-48bd-bc12-7a95ac85bcea" media-type="image/png" width="1152" />
+    <item href="Text/Preface1.xhtml" id="ead210f7-ee05-4ff0-800d-19822f9bbb92" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter1.xhtml" id="34e60620-8f5c-4641-b2d6-e200cc857981" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter2.xhtml" id="afab4bcd-bdae-40be-a2ac-3de42f9ac62a" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter3.xhtml" id="6ac64c1f-c441-4abf-9fb1-9cb60c2f5343" media-type="application/xhtml+xml" />
+    <item href="Text/Appendix1.xhtml" id="634a5441-4908-42d6-bb34-8e4ad5f333db" media-type="application/xhtml+xml" />
+    <item href="Text/Preface2.xhtml" id="c524112f-d5c1-4510-a5ed-9652b3e47084" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter1-0.xhtml" id="85d8af86-b8c2-44c5-9331-c2df847f1dd9" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter2-0.xhtml" id="9e88c27c-ac44-4c40-abc5-5669e3f260f6" media-type="application/xhtml+xml" />
+    <item height="846" href="Images/11-1-i.jpg" id="7ff65e56-2b49-4f66-ade6-d6d00d706949" media-type="image/jpeg" width="768" />
+    <item height="823" href="Images/11-2-i.jpg" id="96f49fa0-7936-44c1-a653-15c73308816f" media-type="image/jpeg" width="768" />
+    <item height="825" href="Images/11-3-i.jpg" id="4e3ebc4d-328c-4e48-83a7-2b60b88a8d39" media-type="image/jpeg" width="768" />
+    <item height="764" href="Images/19-i.jpg" id="d884c931-ba8c-4f81-bb1d-2b2a6b5983df" media-type="image/jpeg" width="768" />
+    <item height="643" href="Images/21-i.jpg" id="12c16e98-2f84-4a3b-861e-e1938a1859a0" media-type="image/jpeg" width="768" />
+    <item height="761" href="Images/23-i.jpg" id="a05bcddb-926c-40d4-a185-4669c30fb049" media-type="image/jpeg" width="768" />
+    <item height="808" href="Images/27-i.jpg" id="3291b76a-93a7-4f23-ba54-a5f0bb942f50" media-type="image/jpeg" width="768" />
+    <item height="687" href="Images/29-i.jpg" id="a151f2d4-7eb2-47b5-bc24-87276722cd95" media-type="image/jpeg" width="768" />
+    <item height="1105" href="Images/31-i.jpg" id="d577073e-d574-4ef8-ab8b-bc3f3d93bc18" media-type="image/jpeg" width="768" />
+    <item height="1022" href="Images/33-i.jpg" id="0b80add3-b986-4c36-8822-aa9e432c378b" media-type="image/jpeg" width="768" />
+    <item height="897" href="Images/37-i.jpg" id="aaaf6f45-d35e-4399-a75f-64139eb7b5de" media-type="image/jpeg" width="1152" />
+    <item height="753" href="Images/39-i.jpg" id="dba9c94a-feb5-4ba1-92e4-7595f4b1dddf" media-type="image/jpeg" width="768" />
+    <item height="747" href="Images/42-i.jpg" id="b65737ea-ca02-4248-b98b-b3b58363d81a" media-type="image/jpeg" width="768" />
+    <item height="683" href="Images/45-i.jpg" id="966b8dcc-0d68-4815-b6eb-7073457eea5f" media-type="image/jpeg" width="768" />
+    <item height="694" href="Images/47-i.jpg" id="00f3ba78-dfad-4b00-9d4c-96e45b9ddc13" media-type="image/jpeg" width="1152" />
+    <item height="712" href="Images/48-i.jpg" id="0bd9a217-1a24-4e57-b6f0-9627adec57ea" media-type="image/jpeg" width="768" />
+    <item height="725" href="Images/50-i.jpg" id="1e270734-776d-41aa-907b-3d865cbbaf2e" media-type="image/jpeg" width="768" />
+    <item height="764" href="Images/53-i.jpg" id="ecc9ff65-3f5f-43d3-8665-9e79c8d2835d" media-type="image/jpeg" width="768" />
+    <item height="778" href="Images/55-i.jpg" id="f73a8dee-47cc-464e-8c0d-4de7127c7dab" media-type="image/jpeg" width="768" />
+    <item height="768" href="Images/56-i.jpg" id="65d6075d-5777-4b25-a776-7aa0220bbcbe" media-type="image/jpeg" width="768" />
+    <item height="491" href="Images/58-i.jpg" id="8486ca24-002f-4835-9877-007ec35eb846" media-type="image/jpeg" width="768" />
+    <item height="816" href="Images/63-i.jpg" id="0ce725c0-9146-4ca3-bb5f-cb264975d74a" media-type="image/jpeg" width="1152" />
+    <item height="755" href="Images/65-i.jpg" id="19fb733e-55e7-4198-935b-83bcebd72cba" media-type="image/jpeg" width="1152" />
+    <item height="716" href="Images/66-i.jpg" id="363c3bfb-2093-4901-95b1-46b6e9e4f369" media-type="image/jpeg" width="1152" />
+    <item height="755" href="Images/68-i.jpg" id="4726efd7-2137-4cbf-8a91-63103c416519" media-type="image/jpeg" width="1152" />
+    <item height="735" href="Images/73-i.jpg" id="100b7932-01c1-44f3-933a-76b81be39827" media-type="image/jpeg" width="1152" />
+    <item height="766" href="Images/75-i.jpg" id="694fc6c1-dc01-443c-a9de-9056aa7e9dbb" media-type="image/jpeg" width="1152" />
+    <item height="769" href="Images/76-i.jpg" id="2c86dfe7-1d1d-46b4-b8d5-4f6155437f02" media-type="image/jpeg" width="1152" />
+    <item height="756" href="Images/81-i.jpg" id="ca3e32de-7a0d-4e9a-a9c2-5fa6cfae6e36" media-type="image/jpeg" width="768" />
+    <item height="462" href="Images/83-i.jpg" id="6857ea3a-0066-45b7-8392-87a4afe42cf2" media-type="image/jpeg" width="768" />
+    <item height="378" href="Images/85-i.jpg" id="9866e1d2-1f72-4e5b-9493-116b6c63f066" media-type="image/jpeg" width="768" />
+    <item height="514" href="Images/87-i.jpg" id="010f0464-6267-43be-b52b-e7a2bbc6d606" media-type="image/jpeg" width="768" />
+    <item height="488" href="Images/88-i.jpg" id="4f8356a7-b830-4f25-822c-18d34cf70197" media-type="image/jpeg" width="768" />
+    <item height="459" href="Images/90-2-i.jpg" id="94074ae6-c08d-41c7-a12d-c59cf9b48587" media-type="image/jpeg" width="768" />
+    <item height="598" href="Images/95-i.jpg" id="477ed348-af0c-446b-85cf-2506bff2e724" media-type="image/jpeg" width="768" />
+    <item height="732" href="Images/97-i.jpg" id="4a4d1fb2-bd43-4ab0-9e87-ddff787caae0" media-type="image/jpeg" width="768" />
+    <item height="576" href="Images/98-i.jpg" id="c27d2312-e2b4-4de1-96cc-90e7438e1e4d" media-type="image/jpeg" width="768" />
+    <item height="485" href="Images/99-1-i.jpg" id="6a2ba6b2-d6f3-4e0c-850b-cd00d96b1d93" media-type="image/jpeg" width="768" />
+    <item height="651" href="Images/99-2-i.jpg" id="83b7091c-fb25-4d5f-a0e3-042d229682b2" media-type="image/jpeg" width="768" />
+    <item height="1049" href="Images/99-3-i.jpg" id="430dce29-5824-4293-adef-5260221d8a02" media-type="image/jpeg" width="768" />
+    <item height="557" href="Images/105-i.jpg" id="6cb5c8d3-c1aa-4748-a33b-bedf30ec0319" media-type="image/jpeg" width="768" />
+    <item height="603" href="Images/107-i.jpg" id="8ddd40f3-d4dd-4d47-90fc-ee6afc2ca0c6" media-type="image/jpeg" width="768" />
+    <item height="647" href="Images/108-i.jpg" id="06a6f493-c15f-482d-8aac-72f49a7593d4" media-type="image/jpeg" width="768" />
+    <item height="326" href="Images/111-2-i.jpg" id="e62ac894-5838-48ce-80ee-81c03af3429f" media-type="image/jpeg" width="300" />
+    <item height="502" href="Images/111-3-i.jpg" id="c1a3ed34-588f-4c28-b627-781a57d02abf" media-type="image/jpeg" width="300" />
+    <item height="438" href="Images/111-i.jpg" id="e54c2ccc-c0fb-4cf8-9ce5-300ae88ce084" media-type="image/jpeg" width="300" />
+    <item height="764" href="Images/115-i.jpg" id="fe950259-6e3b-4045-ad67-1c6cdd261270" media-type="image/jpeg" width="768" />
+    <item height="727" href="Images/117-i.jpg" id="27f84904-8396-41f5-a30c-56b81e00cb97" media-type="image/jpeg" width="768" />
+    <item height="565" href="Images/118-i.jpg" id="2cdb2426-cda0-46e4-b70e-0b83ba81edca" media-type="image/jpeg" width="768" />
+    <item height="716" href="Images/123-i.jpg" id="d3c2b921-8149-48ef-83a9-283e6a400a29" media-type="image/jpeg" width="768" />
+    <item height="678" href="Images/125-i.jpg" id="7526655c-2e26-4059-a2ea-b4e764fa29b3" media-type="image/jpeg" width="768" />
+    <item height="764" href="Images/127-i.jpg" id="b4c416b8-2310-47ce-8c64-45236479d5da" media-type="image/jpeg" width="768" />
+    <item height="764" href="Images/130-i.jpg" id="72a2dc69-e5a6-4499-a6ff-e1fe72b6892d" media-type="image/jpeg" width="768" />
+    <item height="786" href="Images/133-i.jpg" id="a23df3f7-7d03-4690-a7a2-e36e37035cd4" media-type="image/jpeg" width="768" />
+    <item height="673" href="Images/141-i.jpg" id="73d17319-4faa-457e-ab11-8b75d0026739" media-type="image/jpeg" width="768" />
+    <item height="220" href="Images/143-i.jpg" id="c285e2b0-85e5-4901-b061-de41a6cbd1f3" media-type="image/jpeg" width="768" />
+    <item height="563" href="Images/144-i.jpg" id="fd7c65de-8e15-4220-a803-c68af27009d2" media-type="image/jpeg" width="768" />
+    <item height="794" href="Images/149-i.jpg" id="a2579bbe-45a5-4e89-8e88-ec50f82a1779" media-type="image/jpeg" width="768" />
+    <item height="760" href="Images/151-i.jpg" id="0e7caeae-f8eb-4643-8268-2669c592a39e" media-type="image/jpeg" width="768" />
+    <item height="565" href="Images/159-i.jpg" id="535927ad-49dd-46c8-aa52-76b1ea0eb6df" media-type="image/jpeg" width="768" />
+    <item height="303" href="Images/161.jpg" id="77008f56-ef0b-4c98-bd96-66aaf13e650e" media-type="image/jpeg" width="768" />
+    <item height="592" href="Images/163-i.jpg" id="7f5ba350-5a7a-4907-9fdc-481de4b19edc" media-type="image/jpeg" width="768" />
+    <item height="572" href="Images/165-1-i.jpg" id="b1a765ff-3c6a-4f9f-a89e-c003678f3695" media-type="image/jpeg" width="768" />
+    <item height="548" href="Images/165-2-i.jpg" id="50651af3-3cc6-4b56-a8f8-adf04ced36a7" media-type="image/jpeg" width="768" />
+    <item height="609" href="Images/165-3-i.jpg" id="f7ce99c4-14a3-41a9-9927-a1235d9d3bae" media-type="image/jpeg" width="768" />
+    <item height="605" href="Images/165-4-i.jpg" id="b39c7204-5ef6-443b-82ad-cca95ada2a04" media-type="image/jpeg" width="768" />
+    <item height="554" href="Images/169-i.jpg" id="25dd6733-6f3e-4613-bd01-79e81b07c7e5" media-type="image/jpeg" width="768" />
+    <item height="772" href="Images/171-i.jpg" id="a8bb02c8-ec0a-4c5c-bb52-190c2fc78e01" media-type="image/jpeg" width="768" />
+    <item height="474" href="Images/174-i.jpg" id="3e62037e-13fc-45bf-b8e3-9403a66ea1ed" media-type="image/jpeg" width="768" />
+    <item height="540" href="Images/179-i.jpg" id="7d79e3f0-7279-4d76-833c-c96e266f4cb9" media-type="image/jpeg" width="768" />
+    <item height="490" href="Images/181-i.jpg" id="ce8594ba-ec11-49e2-b4ef-26bd8fc52347" media-type="image/jpeg" width="768" />
+    <item height="684" href="Images/182-i.jpg" id="78d600ad-a7dc-4a3d-8a51-9abe3f361456" media-type="image/jpeg" width="768" />
+    <item height="551" href="Images/187-i.jpg" id="8a6a5aad-1643-4434-90a3-448f146e82bd" media-type="image/jpeg" width="768" />
+    <item height="553" href="Images/189-i.jpg" id="cf42ec1f-3682-4ac6-bd1b-542fab586521" media-type="image/jpeg" width="768" />
+    <item height="791" href="Images/191-i.jpg" id="8b0dfd26-54f0-4bfd-879f-cf6274cc56c1" media-type="image/jpeg" width="768" />
+    <item height="650" href="Images/195-i.jpg" id="8486f68f-6d6b-4ec7-92c5-1f785ef34d67" media-type="image/jpeg" width="768" />
+    <item height="298" href="Images/197-i.jpg" id="797f000c-9e0a-4ca9-adae-39aec09f32f2" media-type="image/jpeg" width="768" />
+    <item height="516" href="Images/199-i.jpg" id="fb5e20aa-415e-4f32-bf5d-489bdac92362" media-type="image/jpeg" width="768" />
+    <item href="Text/Chapter3-0.xhtml" id="c3822df8-3182-4b22-90a6-8854efa7a65b" media-type="application/xhtml+xml" />
+    <item href="Text/Preface3.xhtml" id="cc447838-143a-4353-add0-dfdaf32d3b9a" media-type="application/xhtml+xml" />
+    <item href="Fonts/xt.TTF" id="8ed5657a-0e09-4c6e-8844-4f4f750b521e" media-type="application/x-font-ttf" />
+    <item height="239" href="Images/JT0201-01.jpg" id="0fb9efb3-6b2b-4bf5-b5c7-c2b72fb7daca" media-type="image/jpeg" width="588" />
+    <item height="239" href="Images/JT0201.png" id="0f60fcab-291e-44b7-9f30-9f5adab4f307" media-type="image/png" width="608" />
+    <item height="1024" href="Images/coverpage.jpg" id="539c2dfe-4bb4-47f1-b45b-b45db62eada5" media-type="image/jpeg" width="768" />
+    <item height="1280" href="Images/coverpage~slim.jpg" id="8091d039-f33e-4947-a7a6-e97f98ede959" media-type="image/jpeg" width="720" />
+    <item height="143" href="Images/img-ae.png" id="7e677b35-daf6-4e48-b083-d3e3a60e42dd" media-type="image/png" width="1152" />
+    <item height="134" href="Images/img-bs.png" id="486cc67e-fe67-456b-ae3a-a52f0082892c" media-type="image/png" width="768" />
+    <item height="131" href="Images/img-dl.png" id="4c6cf7be-fb7b-4ae6-afca-d50b59fdc929" media-type="image/png" width="768" />
+    <item height="130" href="Images/img-nw.png" id="23c4f2c4-aea2-4bd0-ae12-db6022b3f046" media-type="image/png" width="768" />
+    <item height="846" href="Images/jt00-1.jpg" id="bc9160d9-962c-4667-be07-b4e343db2bc4" media-type="image/jpeg" width="768" />
+    <item height="823" href="Images/jt00-2.jpg" id="6da94e82-9d30-4004-a3ef-68c6b7849146" media-type="image/jpeg" width="768" />
+    <item height="825" href="Images/jt00-3.jpg" id="38991356-ecf8-4b55-8c34-d1efe5f54b65" media-type="image/jpeg" width="768" />
+    <item height="239" href="Images/JT01-1.png" id="b002b92e-66e1-4879-ada0-7e43779b82d2" media-type="image/png" width="451" />
+    <item height="764" href="Images/jt01-2.jpg" id="aea18e34-b3e6-4fa1-b3e2-37b502db46da" media-type="image/jpeg" width="768" />
+    <item height="643" href="Images/jt01-3.jpg" id="f00ea200-c6bb-464b-9309-da951e63f04c" media-type="image/jpeg" width="768" />
+    <item height="761" href="Images/jt01-4.jpg" id="5f8a59db-ec09-4589-a448-66be08394732" media-type="image/jpeg" width="768" />
+    <item height="808" href="Images/jt02-2.jpg" id="26795527-30a7-471e-ac1b-7b079d1aa131" media-type="image/jpeg" width="768" />
+    <item height="687" href="Images/jt02-3.jpg" id="7488f0c4-469a-47cd-ba9c-23fca00625b3" media-type="image/jpeg" width="768" />
+    <item height="1105" href="Images/jt02-4.jpg" id="d92b050d-9920-4126-909a-2bce34e5f920" media-type="image/jpeg" width="768" />
+    <item height="1022" href="Images/jt02-5.jpg" id="9adcc527-d5a5-42e1-a1fa-fabbb7c6e87b" media-type="image/jpeg" width="768" />
+    <item height="897" href="Images/jt03-2.jpg" id="8e493cad-6010-4c00-bf23-dd009595a10a" media-type="image/jpeg" width="1152" />
+    <item height="753" href="Images/jt03-3.jpg" id="534d3864-db54-4a08-84ca-e7e6fa907c4c" media-type="image/jpeg" width="768" />
+    <item height="747" href="Images/jt03-4.jpg" id="019718a7-504d-46f3-9a19-1bf0e0578661" media-type="image/jpeg" width="768" />
+    <item height="768" href="Images/link-cn.png" id="b25b5b2c-ea46-4afe-822c-c5b4d366ccec" media-type="image/png" width="768" />
+    <item height="768" href="Images/link-en.png" id="faca2a23-65f9-4ff8-99fa-085e2475f33a" media-type="image/png" width="768" />
+    <item height="355" href="Images/suiwentu-01.png" id="3dec018e-9f0b-449f-8c31-f4899f101e21" media-type="image/png" width="400" />
+    <item href="Misc/jt01-DL2-10.mp3" id="4357b6c6-33bd-4357-9a1d-057261df1423" media-type="audio/mpeg" />
+    <item href="Misc/jt02-DL2--01.mp3" id="81e587a9-2793-4aec-8598-8e4b600c274a" media-type="audio/mpeg" />
+    <item height="239" href="Images/jt02-1.png" id="c10f88dd-25fa-4f7c-bead-f0d91f511811" media-type="image/png" width="608" />
+    <item height="1950" href="Images/JTDL-1.jpg" id="2742b53f-9c8b-4dab-86b3-9e0c8010d618" media-type="image/jpeg" width="2929" />
+    <item height="1964" href="Images/JTDL-2.jpg" id="d8165235-550f-404c-91e7-ee0a8a305641" media-type="image/jpeg" width="2951" />
+    <item height="1960" href="Images/JTDL-3.jpg" id="236da1ac-b3f0-4d87-83b4-60b786567b12" media-type="image/jpeg" width="2944" />
+    <item height="1963" href="Images/JTDL-4.jpg" id="e4007ad4-f8b8-4ca0-901e-b387156415cd" media-type="image/jpeg" width="2955" />
+    <item height="1968" href="Images/JTDL-5.jpg" id="6bcb55fc-7a03-4421-b00d-898885f02936" media-type="image/jpeg" width="2957" />
+    <item height="2448" href="Images/JTDL-6.jpg" id="bef537d4-a2fb-462a-be81-52c1eb418a71" media-type="image/jpeg" width="3264" />
+    <item height="1964" href="Images/JTDL-8.jpg" id="c3b5eead-18d8-4092-be5b-e9ac9ed70a8e" media-type="image/jpeg" width="2951" />
+    <item height="838" href="Images/bq.png" id="af703c1c-a273-4233-8f7c-9aa2a2cd6bbb" media-type="image/png" width="838" />
+    <item height="105" href="Images/Hh40-600_fmt.png" id="db864959-7008-4669-b022-8a2d77b2847b" media-type="image/png" width="750" />
+    <item height="34" href="Images/3rd.png" id="637f65ac-751a-43b0-a413-61da824f1e23" media-type="image/png" width="37" />
+    <item height="32" href="Images/2nd.png" id="93388a24-33ed-4798-a481-770335299d61" media-type="image/png" width="40" />
+    <item height="1301" href="Images/204-i.jpg" id="ec6d89e4-8d65-461a-bad3-f30b375f20e9" media-type="image/jpeg" width="1900" />
+    <item href="Misc/jt14-DL1-07.mp3" id="e5b44875-e7c0-4a9d-8d52-7f7af88da76d" media-type="audio/mpeg" />
+    <item href="Misc/jt04-DL1-00.mp3" id="e5fa0fdd-9a93-4edc-9630-fa155a740dcb" media-type="audio/mpeg" />
+    <item href="Misc/jt04-DL1-07.mp3" id="2cde3ecf-2269-4d79-96d0-b0dae25786d8" media-type="audio/mpeg" />
+    <item height="239" href="Images/jt03-1.png" id="761adca8-8b5b-486f-a917-29eab4dfb8ff" media-type="image/png" width="922" />
+    <item height="1827" href="Images/JTDL-7.JPG" id="07983b51-9448-4cd9-841e-4b6978ad15ff" media-type="image/jpeg" width="2514" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="1203c7e4-b56c-4b23-b184-f9e4e50eaeda" properties="duokan-page-fullscreen" />
+    <itemref idref="3fe1a361-e8ac-4947-a95c-b3c94c1e8acd" />
+    <itemref idref="679ef929-df0f-4db5-8d55-708805bcb6cd" />
+    <itemref idref="ead210f7-ee05-4ff0-800d-19822f9bbb92" />
+    <itemref idref="c524112f-d5c1-4510-a5ed-9652b3e47084" />
+    <itemref idref="cc447838-143a-4353-add0-dfdaf32d3b9a" />
+    <itemref idref="34e60620-8f5c-4641-b2d6-e200cc857981" />
+    <itemref idref="85d8af86-b8c2-44c5-9331-c2df847f1dd9" />
+    <itemref idref="afab4bcd-bdae-40be-a2ac-3de42f9ac62a" />
+    <itemref idref="9e88c27c-ac44-4c40-abc5-5669e3f260f6" />
+    <itemref idref="6ac64c1f-c441-4abf-9fb1-9cb60c2f5343" />
+    <itemref idref="c3822df8-3182-4b22-90a6-8854efa7a65b" />
+    <itemref idref="634a5441-4908-42d6-bb34-8e4ad5f333db" />
+  </spine>
+  <guide>
+    <reference href="Text/InnerCover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <title>EPUB.js连续展示的例子</title>
+    <script src="../../bower_components/rsvp/rsvp.js"></script>
+    <script src="../js/epub.js"></script>
+    <script src="../js/book.js"></script>
+    <script src="../js/core.js"></script>
+    <script src="../js/hooks.js"></script>
+    <script src="../js/navigation.js"></script>
+    <script src="../js/parser.js"></script>
+    <script src="../js/section.js"></script>
+    <script src="../js/spine.js"></script>
+    <script src="../js/layout.js"></script>
+    <script src="../js/map.js"></script>
+    <script src="../js/queue.js"></script>
+    <script src="../js/rendition.js"></script>
+    <script src="../js/continuous.js"></script>
+    <script src="../js/replacements.js"></script>
+    <script src="../js/section.js"></script>
+    <script src="../js/views.js"></script>
+    <script src="../js/view.js"></script>
+    <style type="text/css">
+        body {
+            margin: 0;
+            background: #000000;
+            font-family: "helvetica neue", Helvetica, Arial, sans-serif;
+            color: #333;
+            height: 100%;
+            width: 100%;
+        }
+
+        .epub-container {
+            min-width: 320px;
+            margin: 0 auto;
+        }
+
+        .epub-container .epub-view > iframe {
+            background: white;
+            box-shadow: 0 0 4px #ccc;
+            margin: 10px;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<script>
+    var book = ePub("../books/中文在手：交通篇去音频201504211819/");
+    var rendition = book.renderTo(document.body, {method: "continuous", width: "800px"});
+    var displayed = rendition.display();
+</script>
+</body>
+</html>

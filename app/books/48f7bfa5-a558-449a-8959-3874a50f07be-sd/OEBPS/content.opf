@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  	<dc:title>好父母成就好孩子：百名校长为家长支招</dc:title>
+	<dc:creator>段兰华</dc:creator>
+    <dc:description>好父母成就好孩子：百名校长为家长支招</dc:description>
+    <dc:language>zh-cn</dc:language>
+    <dc:date></dc:date>
+    <dc:contributor>COAY.COM [http://www.coay.com]</dc:contributor>
+	<dc:publisher>COAY.COM</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1878</dc:identifier>
+    <dc:subject>好父母成就好孩子：百名校长为家长支招</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="article_100822.html" id="id100822" media-type="application/xhtml+xml"/>
+<item href="article_100823.html" id="id100823" media-type="application/xhtml+xml"/>
+<item href="article_100824.html" id="id100824" media-type="application/xhtml+xml"/>
+<item href="article_100825.html" id="id100825" media-type="application/xhtml+xml"/>
+<item href="article_100826.html" id="id100826" media-type="application/xhtml+xml"/>
+<item href="article_100827.html" id="id100827" media-type="application/xhtml+xml"/>
+<item href="article_100828.html" id="id100828" media-type="application/xhtml+xml"/>
+<item href="article_100829.html" id="id100829" media-type="application/xhtml+xml"/>
+<item href="article_100830.html" id="id100830" media-type="application/xhtml+xml"/>
+<item href="article_100831.html" id="id100831" media-type="application/xhtml+xml"/>
+<item href="article_100832.html" id="id100832" media-type="application/xhtml+xml"/>
+<item href="article_100833.html" id="id100833" media-type="application/xhtml+xml"/>
+<item href="article_100834.html" id="id100834" media-type="application/xhtml+xml"/>
+<item href="article_100835.html" id="id100835" media-type="application/xhtml+xml"/>
+<item href="article_100836.html" id="id100836" media-type="application/xhtml+xml"/>
+<item href="article_100837.html" id="id100837" media-type="application/xhtml+xml"/>
+<item href="article_100838.html" id="id100838" media-type="application/xhtml+xml"/>
+<item href="article_100839.html" id="id100839" media-type="application/xhtml+xml"/>
+<item href="article_100840.html" id="id100840" media-type="application/xhtml+xml"/>
+<item href="article_100841.html" id="id100841" media-type="application/xhtml+xml"/>
+<item href="article_100842.html" id="id100842" media-type="application/xhtml+xml"/>
+<item href="article_100843.html" id="id100843" media-type="application/xhtml+xml"/>
+<item href="article_100844.html" id="id100844" media-type="application/xhtml+xml"/>
+<item href="article_100845.html" id="id100845" media-type="application/xhtml+xml"/>
+<item href="article_100846.html" id="id100846" media-type="application/xhtml+xml"/>
+<item href="article_100847.html" id="id100847" media-type="application/xhtml+xml"/>
+<item href="article_100848.html" id="id100848" media-type="application/xhtml+xml"/>
+<item href="article_100849.html" id="id100849" media-type="application/xhtml+xml"/>
+<item href="article_100850.html" id="id100850" media-type="application/xhtml+xml"/>
+
+	<item href="catalog.html" id="catalog" media-type="application/xhtml+xml"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+	<item href="coay.jpg" id="ad" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+	<item href="page.xhtml" id="page" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+	<itemref idref="page"/>
+	<itemref idref="catalog"/>
+    <itemref idref="id100822"/><itemref idref="id100823"/><itemref idref="id100824"/><itemref idref="id100825"/><itemref idref="id100826"/><itemref idref="id100827"/><itemref idref="id100828"/><itemref idref="id100829"/><itemref idref="id100830"/><itemref idref="id100831"/><itemref idref="id100832"/><itemref idref="id100833"/><itemref idref="id100834"/><itemref idref="id100835"/><itemref idref="id100836"/><itemref idref="id100837"/><itemref idref="id100838"/><itemref idref="id100839"/><itemref idref="id100840"/><itemref idref="id100841"/><itemref idref="id100842"/><itemref idref="id100843"/><itemref idref="id100844"/><itemref idref="id100845"/><itemref idref="id100846"/><itemref idref="id100847"/><itemref idref="id100848"/><itemref idref="id100849"/><itemref idref="id100850"/>
+	<itemref idref="page"/>
+  </spine>
+  <guide>
+  	<reference href="titlepage.xhtml" type="cover" title="封面"/>
+    <reference href="catalog.html" type="toc" title="目录"/>
+  </guide>
+</package>

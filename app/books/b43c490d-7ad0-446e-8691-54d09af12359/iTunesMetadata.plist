@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>凌濛初</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>CB307355F7854F8EDF2F6B0E96DB02FE</string>
+		<key>cover-image-path</key>
+		<string>cover.jpg</string>
+		<key>package-file-hash</key>
+		<string>DFA028500B373E023E3F6354CB647A4B</string>
+		<key>publisher-unique-id</key>
+		<string>eec63508-33f2-4432-9146-ab97d30f725d</string>
+		<key>unique-id</key>
+		<integer>-2070778071088992439</integer>
+	</dict>
+	<key>genre</key>
+	<string>古典文学</string>
+	<key>itemName</key>
+	<string>初刻拍案惊奇</string>
+	<key>playlistName</key>
+	<string>初刻拍案惊奇</string>
+	<key>releaseDate</key>
+	<string>2010-04-15 00:00:00+08:00</string>
+	<key>sort-artist</key>
+	<string>凌濛初</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

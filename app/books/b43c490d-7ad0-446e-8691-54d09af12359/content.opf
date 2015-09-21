@@ -1,0 +1,116 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>华夏出版社</dc:publisher>
+    <meta name="calibre:series_index" content="1"/>
+    <dc:rights>本电子书由epubBuilder制作生成，欢迎访问http://www.cnepub.com浏览海量电子书。</dc:rights>
+    <dc:description>明代著名作家凌濛初之《初刻拍案惊奇》、《二刻拍案惊奇》，人们习惯合称为《二拍》。这两部脍炙人口的奇书，共有短篇小说七十八篇，杂剧一个，它以人民大众喜闻乐见的“拟话本”形式，描写了众多引人入胜的故事，如商人由厄运而致富，读书人由贫寒而成名；清官们断案如神，贪吏们枉法如虎；恶棍们奸淫揽讼，骗子们尔虞我诈；青年们怎样追求忠贞不贰的爱情，而封建礼教又如何制造婚姻悲剧。语言通俗简练；情节曲折起伏，扑朔迷离，然又合乎情理；人物内心刻划细致入微，艺术形象栩栩如生，非常值得一读。</dc:description>
+    <dc:language>UND</dc:language>
+    <meta name="calibre:timestamp" content="2010-04-15T07:13:39.875000+00:00"/>
+    <dc:title>初刻拍案惊奇</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2010-04-15 00:00:00+08:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.6.47) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">eec63508-33f2-4432-9146-ab97d30f725d</dc:identifier>
+    <dc:creator opf:role="aut" opf:file-as="凌濛初">凌濛初</dc:creator>
+<dc:identifier opf:scheme="ISBN"></dc:identifier>
+<dc:subject>古典文学</dc:subject>
+</metadata>
+  <manifest>
+    <item href="OPS/chapter1.html" id="chapter1" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter10.html" id="chapter10" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter11.html" id="chapter11" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter12.html" id="chapter12" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter13.html" id="chapter13" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter14.html" id="chapter14" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter15.html" id="chapter15" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter16.html" id="chapter16" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter17.html" id="chapter17" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter18.html" id="chapter18" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter19.html" id="chapter19" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter2.html" id="chapter2" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter20.html" id="chapter20" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter21.html" id="chapter21" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter22.html" id="chapter22" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter23.html" id="chapter23" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter24.html" id="chapter24" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter25.html" id="chapter25" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter26.html" id="chapter26" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter27.html" id="chapter27" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter28.html" id="chapter28" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter29.html" id="chapter29" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter3.html" id="chapter3" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter30.html" id="chapter30" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter31.html" id="chapter31" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter32.html" id="chapter32" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter33.html" id="chapter33" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter34.html" id="chapter34" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter35.html" id="chapter35" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter36.html" id="chapter36" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter37.html" id="chapter37" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter38.html" id="chapter38" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter39.html" id="chapter39" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter4.html" id="chapter4" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter40.html" id="chapter40" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter42.html" id="chapter42" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter5.html" id="chapter5" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter6.html" id="chapter6" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter7.html" id="chapter7" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter8.html" id="chapter8" media-type="application/xhtml+xml"/>
+    <item href="OPS/chapter9.html" id="chapter9" media-type="application/xhtml+xml"/>
+    <item href="OPS/coverpage.html" id="coverpage" media-type="application/xhtml+xml"/>
+    <item href="OPS/images/cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="coverpage"/>
+    <itemref idref="chapter42"/>
+    <itemref idref="chapter1"/>
+    <itemref idref="chapter2"/>
+    <itemref idref="chapter3"/>
+    <itemref idref="chapter4"/>
+    <itemref idref="chapter5"/>
+    <itemref idref="chapter6"/>
+    <itemref idref="chapter7"/>
+    <itemref idref="chapter8"/>
+    <itemref idref="chapter9"/>
+    <itemref idref="chapter10"/>
+    <itemref idref="chapter11"/>
+    <itemref idref="chapter12"/>
+    <itemref idref="chapter13"/>
+    <itemref idref="chapter14"/>
+    <itemref idref="chapter15"/>
+    <itemref idref="chapter16"/>
+    <itemref idref="chapter17"/>
+    <itemref idref="chapter18"/>
+    <itemref idref="chapter19"/>
+    <itemref idref="chapter20"/>
+    <itemref idref="chapter21"/>
+    <itemref idref="chapter22"/>
+    <itemref idref="chapter23"/>
+    <itemref idref="chapter24"/>
+    <itemref idref="chapter25"/>
+    <itemref idref="chapter26"/>
+    <itemref idref="chapter27"/>
+    <itemref idref="chapter28"/>
+    <itemref idref="chapter29"/>
+    <itemref idref="chapter30"/>
+    <itemref idref="chapter31"/>
+    <itemref idref="chapter32"/>
+    <itemref idref="chapter33"/>
+    <itemref idref="chapter34"/>
+    <itemref idref="chapter35"/>
+    <itemref idref="chapter36"/>
+    <itemref idref="chapter37"/>
+    <itemref idref="chapter38"/>
+    <itemref idref="chapter39"/>
+    <itemref idref="chapter40"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

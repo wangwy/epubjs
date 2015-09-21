@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>南飞熊</string>
+	<key>book-info</key>
+	<dict>
+		<key>package-file-hash</key>
+		<string>808C30A10C2692B9E9A036F1E53E4566</string>
+		<key>publisher-unique-id</key>
+		<string>7611</string>
+		<key>unique-id</key>
+		<integer>-1068924913101341962</integer>
+	</dict>
+	<key>genre</key>
+	<string>84号公路</string>
+	<key>itemName</key>
+	<string>84号公路</string>
+	<key>playlistName</key>
+	<string>84号公路</string>
+	<key>releaseDate</key>
+	<string></string>
+</dict>
+</plist>
