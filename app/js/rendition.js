@@ -16,10 +16,10 @@ EPUBJS.Rendition = function (book, options) {
   this.book = book;
   this.views = null;
 
-  this.hooks = {};
-  this.hooks.content = new EPUBJS.Hook(this);
+  EPUBJS.Hooks.mixin(this);
+  this.getHooks("beforeChapterDisplay");
 
-  this.hooks.content.register(EPUBJS.replace.links.bind(this));
+  this.registerHook("beforeChapterDisplay", EPUBJS.replace.links.bind(this), true);
 
   this.q = new EPUBJS.Queue(this);
   this.q.enqueue(this.book.opened);
@@ -195,6 +195,9 @@ EPUBJS.Rendition.prototype.render = function (view) {
 
   return view.render(this.book.request)
       .then(function () {
+        return this.triggerHooks("beforeChapterDisplay", view, this);
+      }.bind(this))
+      .then(function () {
         return view.display();
       })
       .then(function () {
@@ -340,14 +343,14 @@ EPUBJS.Rendition.prototype.isVisible = function (view, offsetPrev, offsetNext, _
 };
 
 EPUBJS.Rendition.prototype.scrollBy = function (x, y, silent) {
-  if(silent){
+  if (silent) {
     this.ignore = true;
   }
-  if(this.settings.height){
-    if(x) this.container.scrollLeft += x;
-    if(y) this.container.scrollTop += y;
-  }else{
-    window.scrollBy(x,y);
+  if (this.settings.height) {
+    if (x) this.container.scrollLeft += x;
+    if (y) this.container.scrollTop += y;
+  } else {
+    window.scrollBy(x, y);
   }
 
   this.scrolled = true;
@@ -388,9 +391,9 @@ EPUBJS.Rendition.prototype.destroy = function () {
   this.views.clear();
 
   clearTimeout(this.trimTimeout);
-  if(this.settings.hidden){
+  if (this.settings.hidden) {
     this.element.removeChild(this.wrapper);
-  }else{
+  } else {
     this.element.removeChild(this.container);
   }
 };

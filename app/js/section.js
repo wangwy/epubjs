@@ -11,10 +11,9 @@ EPUBJS.Section = function(item){
   this.next = item.next;
   this.prev = item.prev;
 
-  this.hooks = {};
-  this.hooks.replacements = new EPUBJS.Hook(this);
-
-  this.hooks.replacements.register(this.replacements);
+  EPUBJS.Hooks.mixin(this);
+  this.getHooks("replacements");
+  this.registerHook("replacements", this.replacements.bind(this), false);
 };
 
 
@@ -75,7 +74,7 @@ EPUBJS.Section.prototype.load = function(_request){
             title.textContent = this.index;
           }
           this.contents = xml.documentElement;
-          return this.hooks.replacements.trigger(this.document);
+          return this.triggerHooks("replacements",this.document);
         }.bind(this)).
         then(function () {
           loading.resolve(this.contents);
