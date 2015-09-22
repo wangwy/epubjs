@@ -47,6 +47,11 @@ EPUBJS.Spine.prototype.get = function(target){
   var index = 0;
   if(target && (typeof target === "number" || isNaN(target) === false)){
     index = target;
+  }else if(target && target.indexOf("#") === 0){
+   index = this.spineById[target.substring(1)];
+  }else if(target){
+    target = target.split("#")[0];
+    index = this.spineByHref[target];
   }
   return this.spineItems[index] || null;
 };

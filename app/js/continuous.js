@@ -78,10 +78,25 @@ EPUBJS.Continuous.prototype.append = function(view){
 EPUBJS.Continuous.prototype.prepend = function(view){
   view.onDisplayed = this.afterDisplayed.bind(this);
 
+  view.on("resized", this.counter.bind(this));
+
   this.views.prepend(view);
   return this.check();
 };
 
+/**
+ * 阻止跳转到头一页
+ * @param bounds
+ */
+EPUBJS.Continuous.prototype.counter = function(bounds){
+
+  if(this.settings.axis === "vertical") {
+    this.scrollBy(0, bounds.heightDelta, true);
+  } else {
+    this.scrollBy(bounds.widthDelta, 0, true);
+  }
+
+};
 /**
  * 判断页面是否渲染
  * @param _offset

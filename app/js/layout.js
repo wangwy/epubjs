@@ -38,6 +38,7 @@ EPUBJS.Layout.Reflowable = function () {
  * @param _devisor
  */
 EPUBJS.Layout.Reflowable.prototype.calculate = function (_width, _height, _gap, _devisor) {
+  //分几页
   var divisor = _devisor || 1;
 
   //计算显示区域的宽度
