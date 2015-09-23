@@ -148,6 +148,10 @@ EPUBJS.Continuous.prototype.check = function(_offset){
 
 };
 
+/**
+ * 截取最前面与最后面的view
+ * @returns {promise|*|lib$rsvp$enumerator$$Enumerator.promise|deferred.promise}
+ */
 EPUBJS.Continuous.prototype.trim = function(){
   var task = new RSVP.defer();
   var displayed = this.views.displayed();
@@ -170,7 +174,12 @@ EPUBJS.Continuous.prototype.trim = function(){
   return task.promise;
 };
 
-EPUBJS.Continuous.prototype.erase = function(view, above){ //Trim
+/**
+ * 清楚多余的view，如果清除最前面的对container重新定位
+ * @param view
+ * @param above
+ */
+EPUBJS.Continuous.prototype.erase = function(view, above){
   var prevTop;
   var prevLeft;
 
@@ -281,7 +290,6 @@ EPUBJS.Continuous.prototype.onScroll = function(){
 
   this.tick.call(window, this.onScroll.bind(this));
 };
-
 
 EPUBJS.Continuous.prototype.resizeView = function(view) {
 

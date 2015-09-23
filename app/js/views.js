@@ -62,7 +62,7 @@ EPUBJS.Views.prototype.prepend = function (view) {
 };
 
 /**
- * 展示页面
+ * 获取展示的view
  * @returns {Array}
  */
 EPUBJS.Views.prototype.displayed = function () {
@@ -89,6 +89,10 @@ EPUBJS.Views.prototype.indexOf = function(view) {
   return this._views.indexOf(view);
 };
 
+/**
+ * 截取_views内的view
+ * @returns {Array}
+ */
 EPUBJS.Views.prototype.slice = function() {
   return this._views.slice.apply(this._views, arguments);
 };

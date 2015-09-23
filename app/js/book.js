@@ -1,6 +1,7 @@
 /**
  * Created by wangwy on 15-9-7.
  */
+var EPUBJS = EPUBJS || {};
 EPUBJS.Book = function (_url) {
   this.opening = new RSVP.defer();
   this.opened = this.opening.promise;

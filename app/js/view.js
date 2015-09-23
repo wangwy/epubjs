@@ -482,4 +482,19 @@ EPUBJS.View.prototype.onSelectionChange = function (e) {
   }.bind(this), 500);
 };
 
+/**
+ * 获取元素的屏幕坐标
+ * @param eleId
+ * @returns {{left: Number, top: Number}}
+ */
+EPUBJS.View.prototype.getEleScroll = function (eleId) {
+  var el = this.document.getElementById(eleId);
+  var left = el.getBoundingClientRect().left;
+  var top = el.getBoundingClientRect().top;
+  return {
+    left: left,
+    top: top
+  }
+};
+
 RSVP.EventTarget.mixin(EPUBJS.View.prototype);

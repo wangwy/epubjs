@@ -155,11 +155,40 @@ EPUBJS.Rendition.prototype.display = function (target) {
  * @returns {*}
  * @private
  */
-EPUBJS.Rendition.prototype._display = function (target) {
-  var section;
-  var view;
-  section = this.book.spine.get(target);
+/*EPUBJS.Rendition.prototype._display = function (target) {
+ var section;
+ var view;
+ section = this.book.spine.get(target);
 
+ if (!section) {
+ console.error("没有发现要展示的资源");
+ return;
+ }
+
+ this.views.hide();
+
+ //新建一个页面
+ view = new EPUBJS.View(section, this.viewSettings);
+
+ this.views.clear();
+ //只是添加div，iframe还没有下载
+ this.views.append(view);
+ view.onDisplayed = this.afterDisplayed.bind(this);
+
+ return this.render(view).
+ then(function () {
+ this.views.show();
+ }.bind(this));
+ };*/
+
+EPUBJS.Rendition.prototype._display = function (url) {
+  var split, href, eleId, section;
+  if(url){
+    split = url.split("#");
+    href = split[0];
+    eleId = split[1] || false;
+  }
+  section = this.book.spine.get(href);
   if (!section) {
     console.error("没有发现要展示的资源");
     return;
@@ -168,7 +197,7 @@ EPUBJS.Rendition.prototype._display = function (target) {
   this.views.hide();
 
   //新建一个页面
-  view = new EPUBJS.View(section, this.viewSettings);
+  var view = new EPUBJS.View(section, this.viewSettings);
 
   this.views.clear();
   //只是添加div，iframe还没有下载
@@ -178,6 +207,19 @@ EPUBJS.Rendition.prototype._display = function (target) {
   return this.render(view).
       then(function () {
         this.views.show();
+      }.bind(this)).
+      then(function () {
+        //如果跳转路径里有锚点，跳转到锚点所在的位置
+        if (eleId) {
+          var eleScroll = view.getEleScroll(eleId);
+          if(this.settings.axis === "vertical") {
+            this.scrollBy(0,  eleScroll.top, true);
+          } else {
+            var offsetLeft = Math.floor(eleScroll.left / this.layout.delta) * this.layout.delta;
+            this.scrollBy(offsetLeft, 0, true);
+          }
+          return this.check();
+        }
       }.bind(this));
 };
 
@@ -209,7 +251,6 @@ EPUBJS.Rendition.prototype.render = function (view) {
         this.trigger("rendered", view.section);
       }.bind(this))
 };
-
 
 EPUBJS.Rendition.prototype.afterDisplayed = function (view) {
   this.trigger("added", view.section);
@@ -342,6 +383,12 @@ EPUBJS.Rendition.prototype.isVisible = function (view, offsetPrev, offsetNext, _
   return false;
 };
 
+/**
+ * 跳转多少
+ * @param x
+ * @param y
+ * @param silent
+ */
 EPUBJS.Rendition.prototype.scrollBy = function (x, y, silent) {
   if (silent) {
     this.ignore = true;
@@ -356,6 +403,12 @@ EPUBJS.Rendition.prototype.scrollBy = function (x, y, silent) {
   this.scrolled = true;
 };
 
+/**
+ * 跳转到
+ * @param x
+ * @param y
+ * @param silent
+ */
 EPUBJS.Rendition.prototype.scrollTo = function (x, y, silent) {
   if (silent) {
     this.ignore = true;

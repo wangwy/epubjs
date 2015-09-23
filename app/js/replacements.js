@@ -14,6 +14,7 @@ EPUBJS.replace.links = function (view, continuous) {
 
       } else {
         link.onclick = function () {
+//          continuous.gotoHref(href);
           continuous.display(href);
           return false;
         }
