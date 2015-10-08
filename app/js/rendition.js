@@ -211,16 +211,26 @@ EPUBJS.Rendition.prototype._display = function (url) {
       then(function () {
         //如果跳转路径里有锚点，跳转到锚点所在的位置
         if (eleId) {
-          var eleScroll = view.getEleScroll(eleId);
+          this.gotoEleById(view, eleId);
+          /*var eleScroll = view.getEleScroll(eleId);
           if(this.settings.axis === "vertical") {
             this.scrollBy(0,  eleScroll.top, true);
           } else {
             var offsetLeft = Math.floor(eleScroll.left / this.layout.delta) * this.layout.delta;
             this.scrollBy(offsetLeft, 0, true);
-          }
-          return this.check();
+          }*/
         }
       }.bind(this));
+};
+
+EPUBJS.Rendition.prototype.gotoEleById = function (view, eleId) {
+  var eleScroll = view.getEleScroll(eleId);
+  if(this.settings.axis === "vertical"){
+    this.scrollBy(0, eleScroll.top, true);
+  }else{
+    var offsetLeft = Math.floor(eleScroll.left / this.layout.delta) * this.layout.delta;
+    this.scrollBy(offsetLeft, 0, true);
+  }
 };
 
 /**

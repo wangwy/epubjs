@@ -11,10 +11,11 @@ EPUBJS.replace.links = function (view, continuous) {
       link.setAttribute("target", "_blank");
     } else {
       if (href.indexOf("#") === 0) {
-
+        link.onclick = function () {
+          continuous.gotoEleById(view, href.split("#")[1]);
+        };
       } else {
         link.onclick = function () {
-//          continuous.gotoHref(href);
           continuous.display(href);
           return false;
         }

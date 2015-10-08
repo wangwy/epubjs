@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:b6c45774-b30c-4cb0-b518-f4e64836fa98" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>五年文集</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>封面</text>
+      </navLabel>
+      <content src="Text/Cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>版权信息</text>
+      </navLabel>
+      <content src="Text/Copyright.xhtml"/>
+    </navPoint>
+	<navPoint id="navPoint-0" playOrder="0">
+	<navLabel>
+	<text>三重门</text>
+	</navLabel>
+	<content src="Text/ds00588401.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-1" playOrder="1">
+	<navLabel>
+	<text>零下一度</text>
+	</navLabel>
+	<content src="Text/ds00588402.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-2" playOrder="2">
+	<navLabel>
+	<text>第三个人</text>
+	</navLabel>
+	<content src="Text/ds00588403.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-3" playOrder="3">
+	<navLabel>
+	<text>来自海边</text>
+	</navLabel>
+	<content src="Text/ds00588404.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-4" playOrder="4">
+	<navLabel>
+	<text>兄弟成长于天蓝年代</text>
+	</navLabel>
+	<content src="Text/ds00588405.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-5" playOrder="5">
+	<navLabel>
+	<text>足球啊足球</text>
+	</navLabel>
+	<content src="Text/ds00588406.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-6" playOrder="6">
+	<navLabel>
+	<text>文学啊文学</text>
+	</navLabel>
+	<content src="Text/ds00588407.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-7" playOrder="7">
+	<navLabel>
+	<text>那些事 那些人</text>
+	</navLabel>
+	<content src="Text/ds00588408.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-8" playOrder="8">
+	<navLabel>
+	<text>头发</text>
+	</navLabel>
+	<content src="Text/ds00588409.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-9" playOrder="9">
+	<navLabel>
+	<text>书店（一）</text>
+	</navLabel>
+	<content src="Text/ds00588410.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-10" playOrder="10">
+	<navLabel>
+	<text>书店（二）</text>
+	</navLabel>
+	<content src="Text/ds00588411.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-11" playOrder="11">
+	<navLabel>
+	<text>杯中窥人</text>
+	</navLabel>
+	<content src="Text/ds00588412.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-12" playOrder="12">
+	<navLabel>
+	<text>穿着棉袄洗澡</text>
+	</navLabel>
+	<content src="Text/ds00588413.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-13" playOrder="13">
+	<navLabel>
+	<text>求医</text>
+	</navLabel>
+	<content src="Text/ds00588414.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-14" playOrder="14">
+	<navLabel>
+	<text>永远的远方</text>
+	</navLabel>
+	<content src="Text/ds00588415.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-15" playOrder="15">
+	<navLabel>
+	<text>三个地方的三轮车</text>
+	</navLabel>
+	<content src="Text/ds00588416.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-16" playOrder="16">
+	<navLabel>
+	<text>读《人的末日》</text>
+	</navLabel>
+	<content src="Text/ds00588417.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-17" playOrder="17">
+	<navLabel>
+	<text>小镇生活</text>
+	</navLabel>
+	<content src="Text/ds00588418.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-18" playOrder="18">
+	<navLabel>
+	<text>早已离开</text>
+	</navLabel>
+	<content src="Text/ds00588419.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-19" playOrder="19">
+	<navLabel>
+	<text>傻子</text>
+	</navLabel>
+	<content src="Text/ds00588420.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-20" playOrder="20">
+	<navLabel>
+	<text>一起沉默</text>
+	</navLabel>
+	<content src="Text/ds00588421.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-21" playOrder="21">
+	<navLabel>
+	<text>像少年啦飞驰</text>
+	</navLabel>
+	<content src="Text/ds00588422.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-22" playOrder="22">
+	<navLabel>
+	<text>通稿2003</text>
+	</navLabel>
+	<content src="Text/ds00588423.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-23" playOrder="23">
+	<navLabel>
+	<text>序一</text>
+	</navLabel>
+	<content src="Text/ds00588424.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-24" playOrder="24">
+	<navLabel>
+	<text>序二</text>
+	</navLabel>
+	<content src="Text/ds00588425.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-25" playOrder="25">
+	<navLabel>
+	<text>教师的问题</text>
+	</navLabel>
+	<content src="Text/ds00588426.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-26" playOrder="26">
+	<navLabel>
+	<text>恋爱的问题</text>
+	</navLabel>
+	<content src="Text/ds00588427.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-27" playOrder="27">
+	<navLabel>
+	<text>学校的问题</text>
+	</navLabel>
+	<content src="Text/ds00588428.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-28" playOrder="28">
+	<navLabel>
+	<text>军训的问题</text>
+	</navLabel>
+	<content src="Text/ds00588429.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-29" playOrder="29">
+	<navLabel>
+	<text>语文的问题</text>
+	</navLabel>
+	<content src="Text/ds00588430.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-30" playOrder="30">
+	<navLabel>
+	<text>大学生的问题</text>
+	</navLabel>
+	<content src="Text/ds00588431.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-31" playOrder="31">
+	<navLabel>
+	<text>数学的问题</text>
+	</navLabel>
+	<content src="Text/ds00588432.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-32" playOrder="32">
+	<navLabel>
+	<text>重要不重要的问题</text>
+	</navLabel>
+	<content src="Text/ds00588433.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-33" playOrder="33">
+	<navLabel>
+	<text>历史的问题</text>
+	</navLabel>
+	<content src="Text/ds00588434.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-34" playOrder="34">
+	<navLabel>
+	<text>英语的问题</text>
+	</navLabel>
+	<content src="Text/ds00588435.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-35" playOrder="35">
+	<navLabel>
+	<text>干部的问题</text>
+	</navLabel>
+	<content src="Text/ds00588436.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-36" playOrder="36">
+	<navLabel>
+	<text>性格的问题</text>
+	</navLabel>
+	<content src="Text/ds00588437.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-37" playOrder="37">
+	<navLabel>
+	<text>压力的问题</text>
+	</navLabel>
+	<content src="Text/ds00588438.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-38" playOrder="38">
+	<navLabel>
+	<text>专家的问题</text>
+	</navLabel>
+	<content src="Text/ds00588439.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-39" playOrder="39">
+	<navLabel>
+	<text>招生的问题</text>
+	</navLabel>
+	<content src="Text/ds00588440.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-40" playOrder="40">
+	<navLabel>
+	<text>诗歌的问题</text>
+	</navLabel>
+	<content src="Text/ds00588441.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-41" playOrder="41">
+	<navLabel>
+	<text>自己的问题</text>
+	</navLabel>
+	<content src="Text/ds00588442.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-42" playOrder="42">
+	<navLabel>
+	<text>作者简介</text>
+	</navLabel>
+	<content src="Text/ds00588443.xhtml"/>
+	</navPoint>
+
+  </navMap>
+</ncx>

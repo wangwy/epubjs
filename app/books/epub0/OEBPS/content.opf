@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:b6c45774-b30c-4cb0-b518-f4e64836fa98</dc:identifier>
+    <dc:title>五年文集</dc:title>
+    <dc:creator opf:role="aut">韩寒</dc:creator>
+    <dc:language>zh-CN</dc:language>
+    <dc:publisher>天津人民出版社</dc:publisher>
+    <dc:date>2013-1-1</dc:date>
+    <meta name="cover" content="Images/ds005884.jpg" />
+    <meta content="0.7.4" name="Sigil version" />
+    <dc:date opf:event="modification">2014-07-31</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/Cover.xhtml" id="Cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Copyright.xhtml" id="Copyright.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/BookBrief.xhtml" id="BookBrief.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/ds005884.jpg" id="ds005884.jpg" media-type="image/png" />
+    <item href="Text/ds00588401.xhtml" id="ds00588401" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588402.xhtml" id="ds00588402" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588403.xhtml" id="ds00588403" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588404.xhtml" id="ds00588404" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588405.xhtml" id="ds00588405" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588406.xhtml" id="ds00588406" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588407.xhtml" id="ds00588407" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588408.xhtml" id="ds00588408" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588409.xhtml" id="ds00588409" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588410.xhtml" id="ds00588410" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588411.xhtml" id="ds00588411" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588412.xhtml" id="ds00588412" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588413.xhtml" id="ds00588413" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588414.xhtml" id="ds00588414" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588415.xhtml" id="ds00588415" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588416.xhtml" id="ds00588416" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588417.xhtml" id="ds00588417" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588418.xhtml" id="ds00588418" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588419.xhtml" id="ds00588419" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588420.xhtml" id="ds00588420" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588421.xhtml" id="ds00588421" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588422.xhtml" id="ds00588422" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588423.xhtml" id="ds00588423" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588424.xhtml" id="ds00588424" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588425.xhtml" id="ds00588425" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588426.xhtml" id="ds00588426" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588427.xhtml" id="ds00588427" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588428.xhtml" id="ds00588428" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588429.xhtml" id="ds00588429" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588430.xhtml" id="ds00588430" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588431.xhtml" id="ds00588431" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588432.xhtml" id="ds00588432" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588433.xhtml" id="ds00588433" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588434.xhtml" id="ds00588434" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588435.xhtml" id="ds00588435" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588436.xhtml" id="ds00588436" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588437.xhtml" id="ds00588437" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588438.xhtml" id="ds00588438" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588439.xhtml" id="ds00588439" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588440.xhtml" id="ds00588440" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588441.xhtml" id="ds00588441" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588442.xhtml" id="ds00588442" media-type="application/xhtml+xml" />
+    <item href="Text/ds00588443.xhtml" id="ds00588443" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Cover.xhtml" />
+    <itemref idref="Copyright.xhtml" />
+    <itemref idref="ds00588401" />
+    <itemref idref="ds00588402" />
+    <itemref idref="ds00588403" />
+    <itemref idref="ds00588404" />
+    <itemref idref="ds00588405" />
+    <itemref idref="ds00588406" />
+    <itemref idref="ds00588407" />
+    <itemref idref="ds00588408" />
+    <itemref idref="ds00588409" />
+    <itemref idref="ds00588410" />
+    <itemref idref="ds00588411" />
+    <itemref idref="ds00588412" />
+    <itemref idref="ds00588413" />
+    <itemref idref="ds00588414" />
+    <itemref idref="ds00588415" />
+    <itemref idref="ds00588416" />
+    <itemref idref="ds00588417" />
+    <itemref idref="ds00588418" />
+    <itemref idref="ds00588419" />
+    <itemref idref="ds00588420" />
+    <itemref idref="ds00588421" />
+    <itemref idref="ds00588422" />
+    <itemref idref="ds00588423" />
+    <itemref idref="ds00588424" />
+    <itemref idref="ds00588425" />
+    <itemref idref="ds00588426" />
+    <itemref idref="ds00588427" />
+    <itemref idref="ds00588428" />
+    <itemref idref="ds00588429" />
+    <itemref idref="ds00588430" />
+    <itemref idref="ds00588431" />
+    <itemref idref="ds00588432" />
+    <itemref idref="ds00588433" />
+    <itemref idref="ds00588434" />
+    <itemref idref="ds00588435" />
+    <itemref idref="ds00588436" />
+    <itemref idref="ds00588437" />
+    <itemref idref="ds00588438" />
+    <itemref idref="ds00588439" />
+    <itemref idref="ds00588440" />
+    <itemref idref="ds00588441" />
+    <itemref idref="ds00588442" />
+    <itemref idref="ds00588443" />
+  </spine>
+  <guide>
+    <reference href="Text/Cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>
