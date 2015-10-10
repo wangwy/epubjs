@@ -96,3 +96,18 @@ EPUBJS.Layout.Reflowable.prototype.format = function (view) {
 
   view.iframe.style.marginRight = this.gap + "px";
 };
+
+/**
+ * 计算个html页数
+ * @param view
+ * @returns {{spreads: number, pages: number}}
+ */
+EPUBJS.Layout.Reflowable.prototype.count = function (view) {
+  var totalWidth = view.root().scrollWidth + this.gap;
+  var spreads = totalWidth/this.delta;
+
+  return {
+    spreads : spreads,
+    pages : spreads * this.divisor
+  }
+};

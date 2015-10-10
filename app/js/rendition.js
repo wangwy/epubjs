@@ -18,7 +18,7 @@ EPUBJS.Rendition = function (book, options) {
 
   EPUBJS.Hooks.mixin(this);
   this.getHooks("beforeChapterDisplay");
-
+  this.getHooks("afterChapterDisplay");
   this.registerHook("beforeChapterDisplay", EPUBJS.replace.links.bind(this), true);
 
   this.q = new EPUBJS.Queue(this);
@@ -155,32 +155,6 @@ EPUBJS.Rendition.prototype.display = function (target) {
  * @returns {*}
  * @private
  */
-/*EPUBJS.Rendition.prototype._display = function (target) {
- var section;
- var view;
- section = this.book.spine.get(target);
-
- if (!section) {
- console.error("没有发现要展示的资源");
- return;
- }
-
- this.views.hide();
-
- //新建一个页面
- view = new EPUBJS.View(section, this.viewSettings);
-
- this.views.clear();
- //只是添加div，iframe还没有下载
- this.views.append(view);
- view.onDisplayed = this.afterDisplayed.bind(this);
-
- return this.render(view).
- then(function () {
- this.views.show();
- }.bind(this));
- };*/
-
 EPUBJS.Rendition.prototype._display = function (url) {
   var split, href, eleId, section;
   if(url){
@@ -212,14 +186,10 @@ EPUBJS.Rendition.prototype._display = function (url) {
         //如果跳转路径里有锚点，跳转到锚点所在的位置
         if (eleId) {
           this.gotoEleById(view, eleId);
-          /*var eleScroll = view.getEleScroll(eleId);
-          if(this.settings.axis === "vertical") {
-            this.scrollBy(0,  eleScroll.top, true);
-          } else {
-            var offsetLeft = Math.floor(eleScroll.left / this.layout.delta) * this.layout.delta;
-            this.scrollBy(offsetLeft, 0, true);
-          }*/
         }
+      }.bind(this)).
+      then(function () {
+        this.trigger("displayed", section);
       }.bind(this));
 };
 
@@ -258,10 +228,15 @@ EPUBJS.Rendition.prototype.render = function (view) {
             view.show();
           }, view);
         }
+        this.triggerHooks("afterChapterDisplay", view, this);
         this.trigger("rendered", view.section);
       }.bind(this))
 };
 
+/**
+ * 展现后的操作（此方法被重写）
+ * @param view
+ */
 EPUBJS.Rendition.prototype.afterDisplayed = function (view) {
   this.trigger("added", view.section);
 };
@@ -376,6 +351,14 @@ EPUBJS.Rendition.prototype.resizeView = function (view) {
   }
 };
 
+/**
+ * 判断章节是否该显示
+ * @param view
+ * @param offsetPrev
+ * @param offsetNext
+ * @param _container
+ * @returns {boolean}
+ */
 EPUBJS.Rendition.prototype.isVisible = function (view, offsetPrev, offsetNext, _container) {
   var position = view.position();
   var container = _container || this.container.getBoundingClientRect();
@@ -434,6 +417,10 @@ EPUBJS.Rendition.prototype.scrollTo = function (x, y, silent) {
   this.scrolled = true;
 };
 
+/**
+ * 获取浏览器window的高度与宽度
+ * @returns {*}
+ */
 EPUBJS.Rendition.prototype.bounds = function () {
   var bounds;
 
@@ -459,6 +446,59 @@ EPUBJS.Rendition.prototype.destroy = function () {
   } else {
     this.element.removeChild(this.container);
   }
+};
+
+/**
+ * 报告位置
+ */
+EPUBJS.Rendition.prototype.reportLocation = function () {
+  return this.q.enqueue(function () {
+    this.location = this.currentLocation();
+    this.trigger("locationChanged", this.location);
+  }.bind(this));
+};
+
+/**
+ * 当前位置(会被重写)
+ * @returns {*}
+ */
+EPUBJS.Rendition.prototype.currentLocation = function () {
+  var view;
+  if(this.views.length){
+    view = this.views.first();
+    return this.map.page(view);
+  }
+};
+
+/**
+ * 获取当前页的位置
+ * @returns {*}
+ */
+EPUBJS.Rendition.prototype.getCurrentLocation = function () {
+  return this.location;
+};
+
+/**
+ * 获取在显示区域内的页面
+ * @returns {Array}
+ */
+EPUBJS.Rendition.prototype.visible = function () {
+  var container = this.bounds();
+  var displayedViews = this.views.displayed();
+  var visible = [];
+  var isVisible;
+  var view;
+
+  for(var i = 0; i < displayedViews.length; i++){
+    view = displayedViews[i];
+    isVisible = this.isVisible(view, 0, 0, container);
+
+    if(isVisible === true){
+      visible.push(view);
+    }
+  }
+
+  return visible;
 };
 
 RSVP.EventTarget.mixin(EPUBJS.Rendition.prototype);

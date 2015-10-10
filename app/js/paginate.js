@@ -22,6 +22,8 @@ EPUBJS.Paginate = function (book, options) {
   this.viewSettings = {
     axis: this.settings.axis
   };
+
+  this.start();
 };
 
 EPUBJS.Paginate.prototype = Object.create(EPUBJS.Continuous.prototype);
@@ -77,7 +79,7 @@ EPUBJS.Paginate.prototype.next = function () {
     }else{
       this.scrollTo(this.container.scrollWidth - this.layout.delta, 0);
     }
-
+    this.reportLocation();
     return this.check();
   })
 };
@@ -89,6 +91,62 @@ EPUBJS.Paginate.prototype.next = function () {
 EPUBJS.Paginate.prototype.prev = function () {
   return this.q.enqueue(function(){
     this.scrollBy(-this.layout.delta, 0);
+    this.reportLocation();
     return this.check();
   })
+};
+
+EPUBJS.Paginate.prototype.start = function () {
+  this.on("displayed", this.reportLocation.bind(this));
+
+  window.addEventListener("unload", function () {
+    this.ignore = true;
+    this.destroy();
+  }.bind(this))
+};
+
+/**
+ * 计算当前位置
+ * @returns {*}
+ */
+EPUBJS.Paginate.prototype.currentLocation = function () {
+  var visible = this.visible();
+  var startA, startB, endA, endB;
+  var pageLeft, pageRight;
+  var container = this.container.getBoundingClientRect();
+  if(visible.length === 1){
+    startA = container.left - visible[0].position().left;
+    endA = startA + this.layout.spread;
+
+    var pageCount = this.layout.count(visible[0]).pages;
+    var position = this.map.page(visible[0], startA, endA);
+    var start = position.start;
+    var page = start.startRange.getBoundingClientRect().left/this.layout.delta;
+    page = Math.floor(page) + 1;
+
+    return {
+      startRange: position.start.startRange,
+      endRange: position.end.endRange,
+      startOffset: position.start.startOffset,
+      endOffset: position.end.endOffset,
+      page: page,
+      pageCount: pageCount
+    };
+  }
+
+  if(visible.length > 1){
+    startA = container.left - visible[0].position().left;
+    endA = startA + this.layout.column;
+
+    startB = container.left + this.layout.spread - visible[visible.length - 1].position().left;
+    endB = startB + this.layout.column;
+
+    pageLeft = this.map.page(visible[0], startA, endA);
+    pageRight = this.map.page(visible[visible.length-1], startB, endB);
+
+    return {
+      start: pageLeft.start,
+      end: pageRight.end
+    }
+  }
 };

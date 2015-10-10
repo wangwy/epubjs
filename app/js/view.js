@@ -337,7 +337,6 @@ EPUBJS.View.prototype.layout = function (layoutFunc) {
   }
 
   this.onLayout(this);
-
 };
 
 /**
@@ -401,6 +400,10 @@ EPUBJS.View.prototype.hide = function () {
   this.trigger("hidden", this);
 };
 
+/**
+ * 获取每一章节的位置
+ * @returns {ClientRect}
+ */
 EPUBJS.View.prototype.position = function () {
   return this.element.getBoundingClientRect();
 };
@@ -495,6 +498,15 @@ EPUBJS.View.prototype.getEleScroll = function (eleId) {
     left: left,
     top: top
   }
+};
+
+/**
+ * 返回document
+ * @returns {*}
+ */
+EPUBJS.View.prototype.root = function () {
+  if(!this.document) return null;
+  return this.document.documentElement;
 };
 
 RSVP.EventTarget.mixin(EPUBJS.View.prototype);

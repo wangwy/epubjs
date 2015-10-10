@@ -149,3 +149,7 @@ EPUBJS.Views.prototype.clear = function () {
   this._views = [];
   this.length = 0;
 };
+
+EPUBJS.Views.prototype.first = function () {
+  return this._views[0];
+};

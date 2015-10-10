@@ -136,4 +136,12 @@ EPUBJS.Book.prototype.renderTo = function(element, options){
   return this.rendition;
 };
 
+/**
+ * 获取当前页的位置信息
+ * @returns {DOMLocator|exports.browser.location|*|objWithHiddenKeys.location|Location|String|string}
+ */
+EPUBJS.Book.prototype.getCurrentLocation = function () {
+  return this.rendition.getCurrentLocation();
+};
+
 RSVP.EventTarget.mixin(EPUBJS.Book.prototype);
