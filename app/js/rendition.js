@@ -18,7 +18,6 @@ EPUBJS.Rendition = function (book, options) {
 
   EPUBJS.Hooks.mixin(this);
   this.getHooks("beforeChapterDisplay");
-  this.getHooks("afterChapterDisplay");
   this.registerHook("beforeChapterDisplay", EPUBJS.replace.links.bind(this), true);
 
   this.q = new EPUBJS.Queue(this);
@@ -228,7 +227,6 @@ EPUBJS.Rendition.prototype.render = function (view) {
             view.show();
           }, view);
         }
-        this.triggerHooks("afterChapterDisplay", view, this);
         this.trigger("rendered", view.section);
       }.bind(this))
 };
@@ -475,7 +473,10 @@ EPUBJS.Rendition.prototype.currentLocation = function () {
  * @returns {*}
  */
 EPUBJS.Rendition.prototype.getCurrentLocation = function () {
-  return this.location;
+  if(this.location){
+    return this.location;
+  }
+  return this.currentLocation();
 };
 
 /**
