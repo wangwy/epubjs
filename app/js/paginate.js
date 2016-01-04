@@ -59,7 +59,7 @@ EPUBJS.Paginate.prototype.updateLayout = function () {
  * @returns {number}
  */
 EPUBJS.Paginate.prototype.determineSpreads = function (cutoff) {
-  if(this.isForcedSingle || !cutoff || this.bounds().width < cutoff){
+  if(this.isForcedSingle || !cutoff || this.bounds().width <= cutoff){
     return 1; //-- 单页显示
   }else{
     return 2; //-- 双页显示

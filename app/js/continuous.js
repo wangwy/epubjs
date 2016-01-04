@@ -301,3 +301,38 @@ EPUBJS.Continuous.prototype.resizeView = function(view) {
 
 };
 
+EPUBJS.Continuous.prototype.currentLocation = function () {
+  var visible = this.visible();
+  var startPage, endPage;
+
+  if(visible.length === 1){
+    var position = this.map.page(visible[0]);
+    return {
+      startOffset: position.start.startOffset,
+      startRange: position.start.startRange,
+      endOffset: position.end.endOffset,
+      endRange: position.end.endRange,
+      startSection: visible[0].section,
+      endSection: visible[0].section
+    }
+  }
+
+  if(visible.length > 1){
+    startPage = this.map.page(visible[0]);
+    endPage = this.map.page(visible[visible.length - 1]);
+
+    /*return {
+      start : startPage.start,
+      end: endPage.end
+    }*/
+
+    return {
+      startOffset: startPage.start.startOffset,
+      startRange: startPage.start.startRange,
+      startSection: visible[0].section,
+      endOffset: endPage.end.endOffset,
+      endRange: endPage.end.endRange,
+      endSection: visible[visible.length - 1].section
+    }
+  }
+};

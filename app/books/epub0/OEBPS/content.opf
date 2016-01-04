@@ -64,9 +64,9 @@
   <spine toc="ncx">
     <itemref idref="Cover.xhtml" />
     <itemref idref="Copyright.xhtml" />
+      <itemref idref="ds00588403" />
     <itemref idref="ds00588401" />
     <itemref idref="ds00588402" />
-    <itemref idref="ds00588403" />
     <itemref idref="ds00588404" />
     <itemref idref="ds00588405" />
     <itemref idref="ds00588406" />
